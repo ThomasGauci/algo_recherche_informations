@@ -34,13 +34,13 @@ for f in range(len(files)):
     # Lemmatisation + suppression mot vide
     for i in range(len(texte[1][0])):
         if(texte[1][0][i][0] not in stop_words):
-            if(texte[1][0][i][1] == "NN"):
+            if(texte[1][0][i][1][0] == "N"):
                 lem.append(lemmatizer.lemmatize(texte[1][0][i][0],pos="n"))
-            if(texte[1][0][i][1] == "JJ"):
+            if(texte[1][0][i][1][0] == "J"):
                 lem.append(lemmatizer.lemmatize(texte[1][0][i][0],pos="a"))
-            if(texte[1][0][i][1] == "VB"):
-                lem.append(lemmatizer.lemmatize(texte[1][0][i][0],pos="a"))
-            if(texte[1][0][i][1] == "RB"):
+            if(texte[1][0][i][1][0] == "V"):
+                lem.append(lemmatizer.lemmatize(texte[1][0][i][0],pos="v"))
+            if(texte[1][0][i][1][0] == "R"):
                 lem.append(lemmatizer.lemmatize(texte[1][0][i][0],pos="r"))
     # Dictionnaire
     for word in lem:
@@ -101,13 +101,13 @@ def requete_complexe(requete):
     # Lemmatisation + suppression mot vide
     for i in range(len(string)):
         if(string[i][0] not in stop_words):
-            if(string[i][1] == "NN"):
+            if(string[i][1][0] == "N"):
                 lem.append(lemmatizer.lemmatize(string[i][0],pos="n"))
-            if(string[i][1] == "JJ"):
+            if(string[i][1][0] == "J"):
                 lem.append(lemmatizer.lemmatize(string[i][0],pos="a"))
-            if(string[i][1] == "VB"):
-                lem.append(lemmatizer.lemmatize(string[i][0],pos="a"))
-            if(string[i][1] == "RB"):
+            if(string[i][1][0] == "V"):
+                lem.append(lemmatizer.lemmatize(string[i][0],pos="v"))
+            if(string[i][1][0] == "R"):
                 lem.append(lemmatizer.lemmatize(string[i][0],pos="r"))
     # On cherche le mot dans notre dictionnaire pour obtenir sa fréquence
     res = [] # score des documents

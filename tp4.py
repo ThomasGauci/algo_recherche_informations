@@ -13,14 +13,12 @@ lemmatizer = WordNetLemmatizer()
 # textes[texte1[token][tagged],....]
 textes = []
 dictionnaire = []
-# Rajouter le 10.txt
 files = ["1.txt","2.txt","3.txt","4.txt","5.txt","6.txt","7.txt","8.txt","9.txt"]
 for i in range(len(files)):
     textes.append([])
     dictionnaire.append([])
 for f in range(len(files)):
     file = open(files[f],"r")
-    print(files[f])
     texte = [[],[],[]]
     string = ""
     for ligne in file:
@@ -94,5 +92,43 @@ for i in range(len(matrice)):
 
 # Requête
 
-                    
+# Requête complexe
+def requete_complexe(requete):
+    # Segmentation
+    tokens = nltk.word_tokenize(requete)
+    string = nltk.pos_tag(tokens)
+    lem = []
+    # Lemmatisation + suppression mot vide
+    for i in range(len(string)):
+        if(string[i][0] not in stop_words):
+            if(string[i][1] == "NN"):
+                lem.append(lemmatizer.lemmatize(string[i][0],pos="n"))
+            if(string[i][1] == "JJ"):
+                lem.append(lemmatizer.lemmatize(string[i][0],pos="a"))
+            if(string[i][1] == "VB"):
+                lem.append(lemmatizer.lemmatize(string[i][0],pos="a"))
+            if(string[i][1] == "RB"):
+                lem.append(lemmatizer.lemmatize(string[i][0],pos="r"))
+    # On cherche le mot dans notre dictionnaire pour obtenir sa fréquence
+    res = [] # score des documents
+    for f in files:
+        res.append([f,0])
+    for word in lem:
+        for i in range(len(dictionnaire)):
+            for j in range(len(dictionnaire[i])):
+                if(dictionnaire[i][j][0] == word):
+                    res[i][1] += dictionnaire[i][j][2]
+    res = sorted(res, key=lambda res: res[1], reverse=True) # On tri les documents en fonction de leurs scores
+    print("------CLASSEMENT PERTINENCE------")
+    print("REQUETE : " + requete)
+    for i in range(len(res)):
+        print(str(i+1) + "- " + res[i][0] + " score : " + str(res[i][1]))
+
+requetes = ["antibody treatments","efficacy and safety of the treatments","family access to hospitals","contact tracing results","genomic analysis of SARS-CoV-2 disease"]
+for requete in requetes:
+    requete_complexe(requete)                  
+
+
+
+
 

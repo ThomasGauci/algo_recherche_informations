@@ -1,0 +1,110 @@
+------CLASSEMENT PERTINENCE------ 
+REQUETE : desease AND severe AND pneumonia
+1- 3.txt score : 0.12039586725129969
+2- 2.txt score : 0.06996137957687465
+3- 9.txt score : 0.060143008503728626
+4- 1.txt score : 0.05989227869810112
+5- 7.txt score : 0.059224382138442576
+6- 5.txt score : 0.045835193269073676
+7- 4.txt score : 0.005541550005892105
+8- 6.txt score : 0
+9- 8.txt score : 0
+------CLASSEMENT PERTINENCE------ 
+REQUETE : antibody AND plasma AND cells OR receptors
+1- 2.txt score : 0.2776592251957213
+2- 1.txt score : 0.27010243334437767
+3- 4.txt score : 0.1163725501237342
+4- 9.txt score : 0.11427171615708441
+5- 5.txt score : 0.03724109453112237
+6- 3.txt score : 0.018059380087694955
+7- 7.txt score : 0.005922438213844258
+8- 6.txt score : 0
+9- 8.txt score : 0
+------CLASSEMENT PERTINENCE------ 
+REQUETE : antimalarial drugs OR antiviral agents OR immunomodulators
+1- 3.txt score : 0.04514845021923738
+2- 4.txt score : 0.02493697502651447
+3- 9.txt score : 0.024057203401491457
+4- 7.txt score : 0.02368975285537703
+5- 1.txt score : 0.019376913696444484
+6- 5.txt score : 0.011458798317268419
+7- 2.txt score : 0.002186293111777333
+8- 6.txt score : 0
+9- 8.txt score : 0
+------CLASSEMENT PERTINENCE------ 
+REQUETE : NOT plasma AND risk of infection AND restritions
+1- 2.txt score : 0.3017084494252719
+2- 8.txt score : 0.22645490072824548
+3- 1.txt score : 0.12213327420789248
+4- 9.txt score : 0.09221927970571724
+5- 3.txt score : 0.051168243581802365
+6- 4.txt score : 0.04156162504419078
+7- 7.txt score : 0.041457067496909805
+8- 5.txt score : 0.037241094531122364
+9- 6.txt score : 0.015921917227074055
+------CLASSEMENT PERTINENCE------ 
+REQUETE : older adults AND antibodies AND NOT genomes OR variant
+1- 1.txt score : 0.30122293109927334
+2- 4.txt score : 0.20226657521506186
+3- 9.txt score : 0.1804290255111859
+4- 2.txt score : 0.09619689691820264
+5- 5.txt score : 0.06588809032429342
+6- 3.txt score : 0.021069276768977446
+7- 6.txt score : 0.015921917227074055
+8- 7.txt score : 0.011844876427688516
+9- 8.txt score : 0
+------CLASSEMENT PERTINENCE------ 
+REQUETE : antibody treatments
+1- 1.txt score : 0.12917942464296323
+2- 4.txt score : 0.11914332512668027
+3- 9.txt score : 0.09221927970571725
+4- 5.txt score : 0.0572939915863421
+5- 3.txt score : 0.03310886349410742
+6- 2.txt score : 0.032794396676659995
+7- 7.txt score : 0.017767314641532774
+8- 6.txt score : 0
+9- 8.txt score : 0
+------CLASSEMENT PERTINENCE------ 
+REQUETE : efficacy and safety of the treatments
+1- 5.txt score : 0.05156459242770789
+2- 3.txt score : 0.05116824358180237
+3- 4.txt score : 0.044332400047136844
+4- 2.txt score : 0.013117758670663997
+5- 7.txt score : 0.011844876427688516
+6- 1.txt score : 0.0117435840584512
+7- 9.txt score : 0.006014300850372864
+8- 6.txt score : 0.0
+9- 8.txt score : 0
+------CLASSEMENT PERTINENCE------ 
+REQUETE : family access to hospitals
+1- 8.txt score : 0.16525087350439535
+2- 9.txt score : 0.07818591105484723
+3- 3.txt score : 0.027089070131542433
+4- 2.txt score : 0.021862931117773328
+5- 7.txt score : 0.017767314641532774
+6- 1.txt score : 0.01350512166721888
+7- 4.txt score : 0.005541550005892105
+8- 5.txt score : 0.0028646995793171048
+9- 6.txt score : 0
+------CLASSEMENT PERTINENCE------ 
+REQUETE : contact tracing results
+1- 1.txt score : 0.0528461282630304
+2- 3.txt score : 0.0391286568566724
+3- 9.txt score : 0.036085805102237176
+4- 5.txt score : 0.034376394951805264
+5- 4.txt score : 0.024936975026514475
+6- 7.txt score : 0.02368975285537703
+7- 2.txt score : 0.008745172447109331
+8- 6.txt score : 0.007960958613537027
+9- 8.txt score : 0
+------CLASSEMENT PERTINENCE------ 
+REQUETE : genomic analysis of SARS-CoV-2 disease
+1- 1.txt score : 0.1626486392095491
+2- 4.txt score : 0.1468510751561408
+3- 2.txt score : 0.13117758670663998
+4- 9.txt score : 0.118281250057333
+5- 5.txt score : 0.11745268275200131
+6- 3.txt score : 0.07223752035077982
+7- 7.txt score : 0.06514682035228683
+8- 6.txt score : 0.06368766890829622
+9- 8.txt score : 0

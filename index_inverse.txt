@@ -1,0 +1,6072 @@
+January 1 2 
+— 1 3 4 5 6 
+mutation 1 
+undercut 1 
+immune 1 3 4 7 
+response 1 3 4 5 8 9 
+COVID 1 8 
+virusA 1 
+handful 1 
+SARS-CoV-2 1 2 3 4 5 6 7 9 
+help 1 2 3 5 
+escape 1 
+mount 1 
+subset 1 
+infected 1 2 4 
+people.Researchers 1 
+identify 1 2 3 4 9 
+thousand 1 
+sample 1 2 4 5 9 
+vast 1 
+majority 1 5 7 
+unlikely 1 4 
+much 1 8 
+effect 1 2 3 4 5 8 9 
+virus 1 2 3 4 5 6 
+’ 1 2 3 4 5 6 
+biology 1 
+potentially 1 2 8 9 
+important 1 2 4 5 9 
+Jesse 1 
+Bloom 1 
+Fred 1 
+Hutchinson 1 
+Cancer 1 3 
+Research 1 4 5 9 
+Center 1 5 
+Seattle 1 
+Washington 1 
+colleague 1 9 
+study 1 2 3 4 5 7 8 9 
+antibody 1 2 3 4 5 7 9 
+isolate 1 
+blood 1 2 3 9 
+serum 1 2 4 7 9 
+people 1 6 8 
+recover 1 2 4 5 9 
+COVID-19 1 2 3 7 8 9 
+A. 1 2 6 
+J. 1 
+Greaney 1 
+al 1 
+Preprint 1 
+bioRxiv 1 
+http 1 
+//doi.org/ghr85d 1 
+team 1 2 4 9 
+test 1 2 3 4 5 6 7 9 
+spike 1 2 4 5 9 
+protein 1 2 4 5 9 
+carry 1 7 
+different 1 2 3 7 8 9 
+version 1 3 4 5 9 
+region 1 2 3 7 
+call 1 
+receptor 1 3 5 9 
+bind 1 5 9 
+domain 1 4 5 9 
+RBD 1 9 
+recognize 1 
+host 1 7 
+cell 1 4 5 9 
+major 1 4 5 
+target 1 2 4 5 9 
+antibodies.Of 1 
+reduce 1 2 3 4 5 8 9 
+ability 1 
+tightly 1 
+change 1 4 5 6 9 
+also 1 2 3 4 5 6 7 8 9 
+indicate 1 3 4 5 6 9 
+reduction 1 2 3 4 5 9 
+disable 1 
+virus.But 1 
+vary 1 3 5 6 
+substantially 1 4 5 8 
+consequential 1 
+location 1 
+E484 1 
+cause 1 2 3 5 6 7 9 
+steep 1 
+drop 1 
+potency 1 
+individual 1 2 4 7 8 9 
+Coronavirus 1 2 3 5 9 
+variant 1 5 
+South 1 3 
+Africa 1 3 
+Brazil 1 3 
+spot.The 1 
+finding 1 2 4 5 7 9 
+yet 1 3 4 5 9 
+peer 1 
+reviewed.12 1 
+Immune 1 
+go 1 
+wild 1 
+tie 1 
+lung 1 5 7 9 
+damageSome 1 
+severe 1 2 3 4 5 7 9 
+respiratory 1 2 3 4 5 7 9 
+symptom 1 2 3 4 5 7 8 9 
+seem 1 8 
+result 1 2 3 4 5 6 7 9 
+activity 1 4 7 9 
+specific 1 2 3 5 
+long-term 1 2 4 9 
+inflammation 1 
+lungs.Alexander 1 
+Misharin 1 
+Northwestern 1 5 
+University 1 5 
+Evanston 1 
+Illinois 1 
+examine 1 2 3 4 5 
+fluid 1 
+pneumonia 1 3 7 9 
+infection 1 2 3 4 5 7 8 9 
+R. 1 2 
+A 1 2 9 
+Grant 1 
+et 1 
+Nature 1 
+//doi.org/fqds 1 
+Most 1 2 4 5 
+high 1 2 3 4 5 6 7 8 9 
+number 1 2 3 4 5 7 8 9 
+certain 1 4 
+type 1 2 3 4 
+T 1 
+class 1 8 
+researcher 1 5 9 
+find 1 3 4 7 8 9 
+nearly 1 9 
+% 1 2 3 4 5 6 7 8 9 
+alveolar 1 
+macrophage 1 
+locate 1 
+tiny 1 
+air 1 2 3 5 
+sac 1 
+contain 1 4 5 
+harbour 1 
+show 1 2 3 4 5 7 9 
+relatively 1 
+expression 1 
+gene 1 5 
+involve 1 2 3 4 5 
+inflammation.The 1 
+suggest 1 2 3 4 5 7 9 
+reach 1 2 3 5 
+infect 1 2 4 
+respond 1 
+produce 1 
+inflammatory 1 3 9 
+molecule 1 
+attract 1 
+turn 1 8 
+stimulate 1 
+make 1 4 9 
+persistent 1 2 9 
+lead 1 3 4 5 8 
+life-threatening 1 2 5 
+consequence 1 9 
+infection.11 1 
+Traitorous 1 
+link 1 5 
+deathAntibodies 1 
+normally 1 
+attack 1 
+pathogen 1 8 
+sometimes 1 8 
+rogue 1 
+instead 1 6 
+besiege 1 
+bodily 1 
+component 1 4 
+Now 1 
+new 1 2 3 4 5 8 9 
+add 1 3 8 
+grow 1 
+body 1 3 
+research 1 3 
+‘ 1 
+autoantibody 1 
+poor 1 8 9 
+outcome 1 2 3 4 5 6 9 
+COVID-19.Ana 1 
+Rodriguez 1 
+David 1 
+Lee 1 
+NYU 1 
+Grossman 1 
+School 1 5 6 
+Medicine 1 5 6 
+New 1 6 9 
+York 1 
+City 1 
+level 1 2 3 5 6 8 9 
+collect 1 2 3 4 5 9 
+require 1 5 7 9 
+hospitalization 1 2 3 4 5 
+particularly 1 2 4 7 9 
+interested 1 
+annexin 1 
+A2 1 
+stabilize 1 
+cell-membrane 1 
+structure 1 
+play 1 3 
+part 1 4 9 
+ensure 1 3 5 9 
+integrity 1 9 
+vessel 1 
+Blocking 1 2 5 
+injury 1 5 7 9 
+hallmark 1 
+COVID-19.The 1 
+scientist 1 
+anti-annexin 1 
+average 1 4 
+eventually 1 
+die 1 2 3 8 9 
+survive 1 3 
+difference 1 2 3 4 5 8 9 
+statistically 1 7 9 
+significant 1 2 3 9 
+M. 1 2 
+Zuniga 1 
+medRxiv 1 
+//doi.org/fqdd 1 
+necessary 1 9 
+establish 1 
+clear 1 2 4 5 
+causal 1 
+rare 1 
+reviewed.8 1 
+Quick 1 
+treatment 1 2 3 4 5 7 9 
+antibody-laden 1 
+cut 1 
+risk 1 2 3 4 5 6 7 8 9 
+COVIDA 1 
+clinical 1 2 3 4 5 7 9 
+trial 1 2 3 4 5 
+old 1 2 3 4 5 6 
+adult 1 2 6 9 
+early 1 2 3 4 5 8 9 
+dose 1 3 4 5 
+plasma 1 2 4 5 9 
+recovered 1 9 
+prevent 1 2 4 5 6 
+progression 1 2 3 5 
+disease.The 1 
+contains 1 
+mix 1 
+need 1 2 3 4 6 9 
+give 1 2 3 4 5 6 7 8 9 
+disease 1 2 3 4 5 6 7 9 
+course 1 2 3 4 5 7 
+effective 1 2 4 6 7 
+Fernando 1 
+Polack 1 
+Fundación 1 2 
+INFANT 1 2 
+Buenos 1 2 
+Aires 1 2 
+conduct 1 2 3 4 5 
+rigorous 1 
+assess 1 2 3 4 5 8 9 
+hour 1 2 3 4 5 8 
+onset 1 2 4 5 9 
+Participants 1 9 
+include 1 2 3 4 5 6 7 8 9 
+age 1 2 3 4 5 7 9 
+least 1 2 3 4 5 6 7 9 
+pre-existing 1 7 
+condition 1 2 3 4 5 6 9 
+diabetes 1 2 9 
+Libster 1 2 
+N. 1 
+Engl 1 
+Med 1 
+//doi.org/10.1056/NEJMoa2033700 1 
+.Severe 1 
+develop 1 2 5 6 9 
+participant 1 9 
+receive 1 2 3 4 5 6 9 
+placebo 1 2 3 4 5 
+group 1 2 3 4 5 6 8 9 
+donor 1 2 
+concentration 1 2 4 9 
+associate 1 2 3 4 8 9 
+great 1 2 3 4 6 8 9 
+provide 1 2 3 4 5 6 7 8 9 
+evidence 1 5 9 
+responsible 1 4 7 
+therapeutic 1 2 4 7 
+effect.7 1 
+Evidence 1 
+grows 1 
+coronavirus 1 2 3 4 5 7 9 
+swift 1 
+spreadTwo 1 
+independent 1 2 4 
+analysis 1 2 3 4 5 9 
+overtake 1 
+United 1 3 5 
+Kingdom 1 
+indeed 1 
+transmissible 1 
+form 1 2 4 5 9 
+virus.Eric 1 
+Volz 1 
+Neil 1 
+Ferguson 1 
+Imperial 1 5 
+College 1 9 
+London 1 
+genome 1 
+label 1 
+concern 1 3 9 
+October 1 2 5 
+December 1 3 4 
+analyse 1 3 4 9 
+roughly 1 
+UK 1 
+administer 1 2 3 4 5 7 
+late 1 2 5 
+E. 1 
+//doi.org/ghrqv8 1 
+.Estimating 1 
+frequency 1 5 8 
+time 1 2 3 4 5 6 8 9 
+author 1 2 3 4 5 9 
+conclude 1 
+lockdown 1 7 
+November 1 2 3 
+curb 1 
+case 1 2 3 6 7 8 9 
+viral 1 2 3 4 5 7 9 
+rise 1 
+reviewed.A 1 
+separate 1 4 8 
+use 1 2 3 4 5 7 9 
+genomic 1 
+data 1 2 3 4 5 7 8 9 
+spread 1 5 6 7 
+last 1 2 3 5 
+month 1 2 4 8 9 
+Davies 1 
+Hygiene 1 
+Tropical 1 
+estimate 1 2 3 4 5 9 
+//doi.org/fp3v 1 
+review.6 1 
+less-sensitive 1 
+outbreaksRapid 1 
+trade 1 
+away 1 
+degree 1 3 
+reliability 1 
+speed 1 
+prove 1 
+valuable 1 7 
+public-health 1 
+tool 1 2 9 
+community 1 6 8 
+hit 1 
+hard 1 8 
+disease.In 1 
+week 1 8 
+Diane 1 
+Havlir 1 
+California 1 5 
+San 1 
+Francisco 1 
+city 1 
+G. 1 
+Pilarowski 1 
+Clin 1 
+Inf 1 
+Dis 1 
+//doi.org/fpzv 1 
+volunteer 1 
+gold-standard 1 
+PCR 1 5 7 
+typically 1 
+return 1 2 8 
+day 1 2 3 4 5 8 9 
+States 1 3 5 6 
+rapid 1 2 4 7 
+detect 1 2 3 
+antigen 1 
+BinaxNOW 1 
+Abbott 1 
+Laboratories 1 
+Park 1 
+Illinois.The 1 
+positive 1 2 3 4 5 7 9 
+rapid-test 1 
+phone 1 
+advise 1 
+meant 1 
+less 1 2 5 9 
+likely 1 3 8 9 
+wait 1 
+Approximately 1 
+confirm 1 3 4 5 7 9 
+mean 1 2 3 4 5 7 8 9 
+wrong.Study 1 
+disclose 1 
+non-financial 1 
+support 1 2 3 4 5 8 9 
+relate 1 2 4 9 
+paper.4 1 
+― 1 
+vaccine 1 2 6 
+work 1 2 6 9 
+quickly 1 8 
+ward 1 
+COVID-19An 1 
+RNA-based 1 
+recently 1 4 5 8 
+approve 1 2 3 9 
+US 1 
+regulator 1 
+protection 1 2 3 5 6 
+first 1 2 3 4 9 
+accord 1 3 4 5 7 9 
+large 1 2 3 4 5 7 9 
+trial.On 1 
+Food 1 2 5 
+Drug 1 2 5 9 
+Administration 1 2 4 5 
+grant 1 2 
+emergency-use 1 
+authorization 1 2 
+Moderna 1 6 
+Cambridge 1 
+Massachusetts 1 
+Shortly 1 
+thereafter 1 
+Lindsey 1 
+Baden 1 
+Brigham 1 
+Women 1 5 9 
+Hospital 1 2 8 9 
+Boston 1 3 
+Hana 1 
+El 1 
+Sahly 1 
+Baylor 1 5 
+Houston 1 2 
+Texas 1 
+publish 1 2 4 5 9 
+enrol 1 3 4 9 
+Half 1 
+dos 1 3 4 5 
+half 1 
+apart 1 9 
+L. 1 2 
+//doi.org/ghrg8m 1 
+symptomatic 1 3 4 7 
+preliminary 1 
+hint 1 
+defence 1 
+asymptomatic 1 2 5 7 8 9 
+write 1 2 3 4 5 7 
+experience 1 4 6 8 
+side 1 2 
+headache 1 
+second 1 9 
+serious 1 2 3 4 7 
+occur 1 2 3 4 5 8 9 
+frequently 1 5 7 
+vaccinated 1 
+group.21 1 
+How 1 
+French 1 
+evade 1 
+detectionIn 1 
+France 1 
+end 1 2 4 5 6 8 
+resident 1 2 3 6 7 
+undetected 1 
+person 1 2 3 4 5 
+nationwide 1 7 
+surveillance 1 
+programme.France 1 
+reopen 1 
+May 1 9 
+adopt 1 8 
+strategy 1 2 6 7 
+contact 1 3 7 9 
+tracing 1 
+isolation 1 6 8 9 
+keep 1 7 
+check 1 
+Vittoria 1 
+Colizza 1 
+Pierre 1 
+Louis 1 
+Institute 1 3 4 5 7 
+Epidemiology 1 
+Public 1 
+Health 1 4 5 7 9 
+Paris 1 
+model 1 3 4 5 9 
+transmission 1 8 
+mid-May 1 
+June 1 2 4 5 9 
+national 1 
+testing 1 4 
+campaign 1 2 
+miss 1 9 
+country 1 2 3 
+decline 1 5 9 
+Pullano 1 
+//doi.org/fn9k 1 
+low 1 2 3 4 5 7 9 
+rate 1 2 3 5 6 8 9 
+always 1 
+equate 1 5 
+detected 1 
+many 1 2 5 8 
+seek 1 4 
+medical 1 2 4 5 6 9 
+advice 1 
+testing.Countries 1 
+implement 1 2 8 
+aggressive 1 
+efficient 1 9 
+suspected 1 7 
+useful 1 4 5 7 
+fight 1 
+pandemic 1 2 3 5 6 7 8 9 
+say.18 1 
+Stay-at-home 1 
+order 1 2 3 9 
+limit 1 2 3 4 7 8 9 
+value 1 5 9 
+COVIDAn 1 
+measure 1 4 5 9 
+school 1 6 9 
+university 1 
+closure 1 
+restrict 1 8 
+gathering 1 
+shut 1 
+business 1 
+stay-at-home 1 
+action 1 
+bring 1 
+marginal 1 
+benefit.Questions 1 
+linger 1 
+relative 1 2 3 4 
+effectiveness 1 
+pinpoint 1 
+Jan 1 9 
+Brauner 1 
+Oxford 1 
+either 1 2 5 
+easing 1 
+restriction 1 7 8 9 
+Science 1 9 
+//doi.org/ghp2p7 1 
+common 1 8 9 
+anti-transmission 1 
+measures.By 1 
+combine 1 4 
+set 1 2 4 9 
+closing 1 
+“ 1 2 4 6 
+” 1 2 4 6 
+dampen 1 
+close 1 6 7 8 
+quick 1 
+succession 1 
+impossible 1 2 
+disentangle 1 
+closure.In 1 
+restricted 1 
+little 1 8 
+found.16 1 
+Self-sabotaging 1 
+COVIDAntibodies 1 
+usually 1 
+occasionally 1 
+system 1 2 3 4 7 
+erroneously 1 
+organ 1 2 7 9 
+even 1 4 5 8 9 
+explain 1 3 
+reaction 1 4 5 
+SARS-CoV-2.Akiko 1 
+Iwasaki 1 
+Aaron 1 
+Ring 1 
+Yale 1 
+Haven 1 6 
+Connecticut 1 
+seriously 1 
+ill 1 2 3 6 9 
+Y. 1 
+Wang 1 9 
+//doi.org/fnkt 1 
+hamper 1 
+Others 1 
+central 1 2 3 4 5 7 
+nervous 1 
+heart 1 9 
+liver 1 9 
+connective 1 7 
+tissue.No 1 
+single 1 4 5 8 
+enough 1 8 
+distinguish 1 
+uninfected 1 
+say 1 8 
+diversity 1 
+various 1 3 4 
+state 1 2 6 
+follow 1 2 3 5 6 9 
+COVID-19.14 1 
+drug 1 4 7 
+duo 1 
+combination 1 2 
+baricitinib 1 
+remdesivir 1 3 
+shave 1 
+recovery 1 2 9 
+hospitalize 1 2 3 5 
+National 1 3 5 6 9 
+Institutes 1 
+recommend 1 3 6 8 
+question 1 3 9 
+World 1 
+Organization 1 
+caution 1 
+use.To 1 
+therapy 1 2 3 4 5 9 
+Andre 1 
+Kalil 1 
+Nebraska 1 
+Medical 1 2 4 5 9 
+Omaha 1 
+anti-inflammatory 1 
+moderate 1 3 5 
+C. 1 
+//doi.org/ghpbd2 1 
+control 1 2 3 4 5 8 
+monitor 1 2 3 4 9 
+long 1 2 4 9 
+take 1 2 6 7 8 9 
+sustained 1 
+care.Those 1 
+median 1 2 3 4 5 9 
+compare 1 2 3 4 5 7 8 9 
+edge 1 
+invasive 1 2 3 9 
+ventilation 1 2 3 9 
+fell 1 
+alone 1 2 3 
+drugs.11 1 
+save 1 2 
+life 1 2 8 9 
+scarceFront-line 1 
+health-care 1 8 
+worker 1 6 
+probably 1 
+get 1 5 
+next 1 4 8 
+queue 1 
+supply 1 
+Models 1 
+elderly 1 
+people.Kate 1 
+Bubar 1 
+Daniel 1 2 
+Larremore 1 
+Colorado 1 
+Boulder 1 
+roll 1 
+priority 1 3 6 8 
+K. 1 
+//doi.org/ghj6xw 1 
+influence 1 
+population 1 2 3 4 5 6 7 8 9 
+delivery 1 
+offer 1 8 
+vaccine.The 1 
+scenario 1 
+jab 1 
+possible 1 4 5 7 
+prioritize 1 6 
+young 1 
+analysis.Targeting 1 
+death 1 2 3 4 5 6 7 8 9 
+hard-hit 1 
+achieve 1 4 
+history 1 4 9 
+recent 1 4 5 6 
+benefitPeople 1 
+front-runner 1 
+still 1 8 9 
+potent 1 5 
+jab.Biotech 1 
+firm 1 
+report 1 2 3 4 5 7 9 
+gauge 1 
+Alicia 1 
+Widge 1 
+Allergy 1 5 
+Infectious 1 5 
+Diseases 1 5 
+Bethesda 1 
+Maryland 1 6 
+T. 1 
+//doi.org/ghnhnv 1 
+latch 1 
+key 1 3 4 
+peak 1 
+slightly 1 5 
+subsequent 1 4 5 9 
+neutralize 1 4 5 
+none 1 5 
+vaccine-related 1 
+effects.The 1 
+durable 1 
+write.7 1 
+Just 1 
+pinch 1 
+protect 1 
+COVIDLow 1 
+sufficient 1 4 8 
+monkey 1 
+contribute 1 2 4 5 7 
+immunity 1 4 
+low.There 1 
+easy 1 
+way 1 3 5 9 
+predict 1 5 9 
+aspect 1 9 
+infectious 1 5 6 9 
+Dan 1 
+Barouch 1 
+Harvard 1 
+understand 1 9 
+element 1 8 
+defend 1 
+rhesus 1 
+macaque 1 
+Macaca 1 
+multatta 1 
+.The 1 2 3 4 
+McMahan 1 
+//doi.org/fmjk 1 
+recipient 1 2 
+animal 1 5 
+boost 1 
+activation 1 9 
+antibody-dependent 1 
+natural 1 4 5 
+killer 1 
+Higher 1 3 
+confer 1 
+doses.When 1 
+CD8+ 1 
+re-infection 1 9 
+immunity.4 1 
+Smell 1 
+sniff 1 
+countsA 1 
+fast 1 
+cheap 1 
+smell 1 9 
+stop 1 2 
+outbreak 1 2 6 8 
+models.Previous 1 
+three-quarters 1 
+lose 1 
+sense 1 5 
+statistic 1 
+hold 1 6 
+true 1 
+feel 1 
+distinctive 1 
+prompt 1 
+Roy 1 
+Parker 1 
+mass 1 
+loss 1 8 9 
+quash 1 
+epidemic 1 
+D. 1 
+B. 1 
+//doi.org/fmbb 1 
+simulation 1 
+assume 1 3 
+detectable 1 2 
+event 1 2 3 4 5 9 
+aeroplane 1 
+flight 1 
+modelling 1 
+showed.Study 1 
+company 1 
+Darwin 1 
+Biosciences 1 
+Derek 1 
+Toomre 1 
+founder 1 
+smell-test 1 
+u-Smell-it 1 
+reviewed.3 1 
+let 1 
+antibodies 1 
+slipScientists 1 
+allow 1 3 4 8 9 
+recognition 1 
+several 1 2 4 5 6 9 
+manufacture 1 
+treatments.The 1 
+designer 1 
+monoclonal 1 2 3 4 5 
+naturally 1 
+map 1 
+binding 1 5 
+Eli 1 5 
+Lilly 1 5 
+Indianapolis 1 5 
+Indiana 1 5 
+cocktail 1 4 
+Regeneron 1 4 
+Tarrytown 1 
+Starr 1 
+//doi.org/fk6h 1 
+affect 1 2 3 4 6 7 
+segment 1 
+receptor-binding 1 4 5 
+enter 1 
+others 1 2 9 
+antibodies.Few 1 
+circulate 1 
+widely 1 2 
+prevalent 1 7 
+Europe 1 
+Netherlands 1 
+Denmark 1 
+mink 1 
+farm 1 
+reviewed.2 1 
+sensitive 1 
+yield 1 
+false 1 
+negativesThe 1 
+method 1 3 4 5 9 
+diagnose 1 5 9 
+polymerase 1 
+chain 1 
+genetic 1 7 
+material 1 
+nose 1 
+throat 1 2 
+swab 1 4 5 7 
+survey 1 7 9 
+negative 1 2 4 9 
+test.Caitlin 1 
+Dugdale 1 
+General 1 
+look 1 
+think 1 
+reason 1 4 5 8 9 
+Open 1 
+Forum 1 
+Infect 1 
+//doi.org/fkw4 1 
+Nearly 1 5 
+do 1 7 9 
+weeks.Among 1 
+initial 1 4 
+infection.People 1 
+retested 1 
+especially 1 3 
+area 1 3 4 
+widespread 1 
+say.1 1 
+avoid 1 2 8 
+beware 1 
+near 1 8 
+dearestA 1 
+far-reaching 1 
+China 1 3 8 9 
+Hunan 1 
+Province 1 
+encounter 1 8 
+member 1 2 4 6 8 
+household.Kaiyuan 1 
+Sun 1 
+Hongjie 1 
+Yu 1 
+Fudan 1 
+Shanghai 1 
+//doi.org/fkwm 1 
+live 1 8 9 
+together 1 4 7 9 
+pose 1 7 
+extended 1 
+family 1 2 4 8 9 
+social 1 3 6 8 9 
+public 1 3 6 
+transport 1 2 
+extra 1 
+raise 1 9 
+found.The 1 
+actually 1 
+increase 1 2 3 4 5 7 8 9 
+household 1 
+spend 1 8 
+normal 1 2 4 8 9 
+home 1 2 6 8 9 
+period.20 1 
+responses 1 
+persist 1 5 9 
+monthsThe 1 
+memory 1 
+lingers 1 
+people.Sporadic 1 
+account 1 8 
+reinfection 1 
+rapidly 1 3 5 
+dwindle 1 
+Shane 1 
+Crotty 1 
+La 1 2 
+Jolla 1 
+Immunology 1 
+marker 1 5 
+range 1 2 3 4 5 9 
+//doi.org/ghkc5k 1 
+tend 1 
+defender 1 
+B 1 9 
+jump-start 1 
+production 1 
+re-encountered 1 
+CD4+ 1 
+peer-reviewed.19 1 
+mutate 1 
+race 1 3 
+farmsThe 1 
+adapt 1 4 
+farmed 1 
+SARS-CoV-2.Outbreaks 1 
+breed 1 
+Neovison 1 
+vison 1 
+Mustela 1 
+lutreola 1 
+April 1 7 
+François 1 
+Balloux 1 
+van 1 
+Dorp 1 
+//doi.org/fjj6 1 
+instance 1 5 
+jump 1 
+arise 1 
+independently 1 4 
+twice 1 
+host.Some 1 
+frequent 1 5 7 
+appear 1 2 3 4 5 8 
+encode 1 
+coronaviruses 1 
+back 1 
+human 1 3 4 6 
+reviewed.17 1 
+Colds 1 
+COVIDAlthough 1 
+deadly 1 
+mild-mannered 1 
+cousin 1 
+seasonal 1 
+cold 1 
+shield 1 
+coronavirus.Scott 1 
+Hensley 1 
+Pennsylvania 1 
+Philadelphia 1 
+Anderson 1 
+//doi.org/fh2n 1 
+pre-pandemic 1 
+OC43 1 
+One-quarter 1 
+common-cold 1 
+coronavirus.Half 1 
+catch 1 
+Individuals 1 
+become 1 2 3 4 5 6 
+similar 1 3 4 5 9 
+say.17 1 
+infectiousRapid 1 
+faster 1 
+user-friendly 1 
+standard 1 2 3 5 
+diagnostic 1 9 
+assay 1 2 4 5 9 
+assessment 1 3 4 5 7 9 
+tell 1 
+accuracy 1 2 3 4 9 
+infectious.Antigen-based 1 
+surface 1 
+particle 1 
+Christian 1 
+Drosten 1 
+Charité 1 
+Berlin 1 
+performance 1 
+commercially 1 
+available 1 2 3 4 5 6 8 9 
+apply 1 8 
+dozen 1 
+already 1 3 4 8 
+V. 1 
+Corman 1 
+//doi.org/ghj3wt 1 
+presence 1 4 5 7 
+run 1 
+equivalent 1 3 5 
+copy 1 4 
+millilitre 1 
+Such 1 5 6 8 
+observe 1 2 3 4 5 7 8 9 
+reviewed.13 1 
+swiftly 1 
+bodyThe 1 
+resurge 1 
+man 1 9 
+kill 1 
+fast-paced 1 
+evolution.Manuela 1 
+Cernadas 1 
+Jonathan 1 2 
+Li 1 
+45-year-old 1 
+long-standing 1 
+autoimmune 1 7 
+disorder 1 9 
+medication 1 
+regimen 1 
+powerful 1 
+immunosuppressant 1 
+Choi 1 
+//doi.org/fhv8 1 
+follow-up 1 2 3 7 9 
+surge 1 
+antiviral 1 3 4 5 9 
+treatment.The 1 
+subside 1 
+diagnosis 1 2 9 
+Genomic 1 
+multiple 1 2 3 5 8 
+Instead 1 8 
+body.12 1 
+mystery 1 
+African 1 4 
+nation 1 
+tollOne 1 
+mid-2020 1 
+Kenya 1 3 
+surprisingly 1 
+figure 1 9 
+view 1 
+small 1 2 4 5 9 
+Sophie 1 
+Uyoga 1 
+KEMRI-Wellcome 1 
+Trust 1 
+Programme 1 
+Kifili 1 
+search 1 9 
+donate 1 2 
+mid-June 1 
+S. 1 4 
+//doi.org/fhsx 1 
+Based 1 
+infection.The 1 
+prevalence 1 5 7 
+Spain 1 
+July 1 2 
+whereas 1 3 5 7 
+sharp 1 
+contrast 1 
+Africa.11 1 
+weaken 1 
+powerA 1 
+potential 1 2 3 4 5 9 
+infection.Since 1 
+start 1 8 
+Robertson 1 
+Glasgow 1 
+Gyorgy 1 
+Snell 1 
+Vir 1 
+Biotechnology 1 
+N439K 1 
+invade 1 
+Thomson 1 
+//doi.org/fhnp 1 
+emerge 1 3 5 9 
+countries.In 1 
+laboratory 1 3 5 9 
+experiment 1 
+hinder 1 
+block 1 2 
+obstruct 1 
+well 1 2 3 4 5 6 7 9 
+reviewed.9 1 
+Uninfected 1 
+child 1 6 
+coronavirusScientists 1 
+never 1 
+Children 1 
+mild 1 2 3 5 9 
+illness 1 2 3 5 6 9 
+all.It 1 
+unclear 1 5 9 
+previous 1 2 4 8 9 
+George 1 
+Kassiotis 1 
+Francis 1 
+Crick 1 
+W. 1 
+Ng 1 
+//doi.org/fg9k 1 
+begin 1 
+global 1 3 5 9 
+march.The 1 
+So 1 
+lab 1 
+dishes.6 1 
+mimic 1 
+antibodiesA 1 
+candidate 1 2 
+artificial 1 9 
+variety 1 
+trigger 1 5 
+protective 1 8 
+response.David 1 
+Veesler 1 
+King 1 
+design 1 2 3 4 5 9 
+microscopic 1 
+ball-shaped 1 
+Walls 1 
+Cell 1 2 5 
+//doi.org/fg6r 1 
+fuse 1 
+outside 1 8 9 
+nanoparticles 1 
+inject 1 
+mouse 1 
+nanoparticle 1 
+virus-blocking 1 
+comparable 1 
+Mice 1 
+ten 1 9 
+rodent 1 
+vaccinate 1 6 
+rely.The 1 
+strong 1 
+special 1 4 
+SARS-CoV-2.4 1 
+Many 1 
+RNA 1 2 5 
+itSwabbing 1 
+bank 1 
+machine 1 
+shop-door 1 
+handle 1 
+touch 1 
+reveal 1 6 
+present 1 2 4 5 8 9 
+amounts.Amy 1 
+Pickering 1 
+Tufts 1 
+Medford 1 
+repeatedly 1 6 
+place 1 2 6 8 
+Somerville 1 
+P. 1 
+Harvey 1 
+//doi.org/fgx9 1 
+rubbish 1 
+bin 1 
+liquor 1 
+store 1 2 
+riddle 1 
+low-level 1 
+contamination 1 
+contaminated 1 
+say.The 1 
+percentage 1 2 3 4 5 9 
+postal 1 
+district 1 
+Sampling 1 
+heavily 1 
+warning 1 8 
+often 1 3 7 8 
+silentThe 1 
+efficiently 1 4 
+warn 1 
+intensive 1 2 3 5 8 9 
+monitoring 1 2 3 4 6 7 
+households.Melissa 1 
+Rolfes 1 
+Centers 1 3 6 
+Disease 1 2 3 6 
+Control 1 3 6 
+Prevention 1 3 6 
+Atlanta 1 
+Georgia 1 
+recruit 1 4 
+Grijalva 1 
+Morb 1 
+Mortal 1 
+Wkly 1 
+Rep. 1 
+//doi.org/fgx3 1 
+enrolment 1 
+gather 1 4 
+daily 1 2 
+conservative 1 
+exclude 1 2 3 4 9 
+sign 1 2 3 5 7 8 
+remain 1 2 8 9 
+almost 1 4 9 
+double 1 
+Fewer 1 
+ill.2 1 
+rank 1 
+infectionsA 1 
+tally 1 
+total 1 2 3 4 5 9 
+infected.Megan 1 
+O 1 2 
+Driscoll 1 
+//doi.org/fgts 1 
+pattern 1 3 9 
+consistent 1 3 4 5 9 
+countries.The 1 
+compile 1 2 
+previously 1 5 7 8 9 
+expose 1 
+fatality 1 
+proportion 1 2 3 7 9 
+under-65 1 
+beginning 1 
+September 1 3 4 5 
+Korea 1 
+Peru 1 3 
+.This 1 
+say.30 1 
+Coronavirus-fighting 1 
+mostly 1 
+COVID-19.Ania 1 
+Wajnberg 1 
+Icahn 1 
+Mount 1 
+Sinai 1 
+//doi.org/fgfs 1 
+More 1 4 9 
+cells.The 1 
+re-tested 1 
+date 1 3 9 
+stable 1 9 
+modest 1 9 
+re-infection.28 1 
+fur-farm 1 
+coronavirusThe 1 
+fox-like 1 
+raccoon 1 
+dog 1 
+Nyctereutes 1 
+procyonoides 1 
+themselves.Conrad 1 
+Freuling 1 
+Friedrich 1 
+Loeffler 1 
+Greifswald–Isle 1 
+Riems 1 
+Germany 1 9 
+deliberately 1 
+Emerg 1 
+//doi.org/ffzf 1 
+Six 1 
+shed 1 
+later 1 7 
+put 1 8 
+cage 1 
+None 1 2 
+visibly 1 
+sick 1 
+lethargic.These 1 
+fur 1 
+captivity 1 
+acute 1 2 3 4 5 7 8 9 
+syndrome 1 2 3 4 5 7 9 
+canids.27 1 
+Basketball 1 
+star 1 
+score 1 5 9 
+insightsProfessional 1 
+basketball 1 
+player 1 
+detail 1 5 9 
+poorly 1 
+understood 1 3 
+phase 1 3 4 5 6 7 9 
+cycle 1 5 8 
+behaviour 1 
+newly 1 9 
+people.After 1 
+four-month 1 
+hiatus 1 
+game 1 
+resume 1 9 
+restart 1 
+athlete 1 
+staff 1 6 8 9 
+highly 1 5 7 
+chance 1 8 
+felt 1 
+ill.Stephen 1 
+Kissler 1 
+T.H 1 
+Chan 1 
+season 1 
+//doi.org/ffxk 1 
+Study 1 4 
+fall 1 
+information 1 2 4 5 9 
+decision 1 3 6 9 
+reviewed.26 1 
+maths-based 1 
+streamlines 1 
+testingIn 1 
+pool 1 4 5 
+batch 1 
+large-scale 1 
+theory 1 
+predicted.Moran 1 
+Yassour 1 
+Hebrew 1 
+Jerusalem 1 
+Barak 1 
+//doi.org/ffkx 1 
+constituent 1 
+Groups 1 
+retested.Using 1 
+one-quarter 1 
+individually 1 
+few 1 5 
+expect 1 4 8 
+care 1 2 3 4 5 6 8 9 
+hospital 1 2 3 5 7 8 9 
+likelihood 1 3 4 
+reviewed.23 1 
+Promising 1 
+livesA 1 
+mute 1 
+deal 1 
+blow 1 
+once-popular 1 
+hypothesis 1 3 4 
+launch 1 
+excessive 1 
+grave 1 
+overly 1 
+vigorous 1 
+bolster 1 
+association 1 4 5 7 9 
+IL-6 1 
+COVID-19.John 1 
+Stone 1 
+try 1 
+treat 1 2 3 5 7 
+tocilizumab 1 3 
+interfere 1 
+H. 1 
+//doi.org/ffjp 1 
+randomized 1 2 3 
+rule 1 4 
+possibility 1 
+statistical 1 2 4 5 9 
+power 1 2 3 5 
+uncover 1 
+benefit.20 1 
+Genomics 1 
+care-home 1 
+deathsAn 1 
+explosive 1 
+town 1 
+spilt 1 
+surround 1 
+local 1 3 4 
+homes.Public-health 1 
+official 1 6 
+easily 1 
+cascade 1 
+Crosse 1 
+Wisconsin 1 
+universities.Paraic 1 
+Kenny 1 
+Gundersen 1 
+Foundation 1 2 9 
+County 1 5 
+student 1 
+in-person 1 4 
+Richmond 1 
+//doi.org/fdt3 1 
+overwhelming 1 
+packed 1 
+party 1 
+indoors 1 
+outdoors 1 
+Eight 1 
+reviewed.19 1 
+courseViral 1 
+pass 1 8 
+peak.A 1 
+doctor 1 
+load 1 4 5 
+indicator 1 
+amount 1 
+James 1 
+Hay 1 
+correlate 1 2 3 4 5 7 
+J 1 
+//doi.org/ghfm73 1 
+.Early 1 
+therefore 1 3 4 7 
+Later 1 
+load.As 1 
+snapshot 1 
+viral-load 1 5 
+distribution 1 2 6 9 
+random 1 9 
+susceptible 1 
+bias 1 
+COVID-testing 1 
+practice 1 3 8 
+simply 1 5 8 
+count 1 9 
+reviewed.16 1 
+Are 1 
+dependsRapid 1 
+minute 1 2 
+market 1 
+equally 1 2 5 
+virus.Antigen-based 1 
+inexpensive 1 2 
+Marion 1 
+Koopmans 1 
+Erasmus 1 
+Rotterdam 1 
+slow 1 4 5 
+Beek 1 
+//doi.org/fdmg 1 
+cases.All 1 
+come 1 
+pick 1 
+reviewed.15 1 
+shrug 1 
+temperature 1 2 
+changesThe 1 
+arrival 1 
+spring 1 
+summer 1 
+stage 1 2 4 9 
+pandemic.Influenza 1 
+viruses 1 
+dry 1 2 
+warmer 1 
+humid 1 
+environment 1 
+winter 1 
+mixed 1 3 4 5 
+picture 1 
+behaviour.To 1 
+see 1 2 4 
+Canelle 1 
+Poirier 1 
+Mauricio 1 
+Santillana 1 
+create 1 6 
+incorporate 1 
+mid-January 1 
+mid-February 1 
+Sci 1 
+weather 1 
+domestic 1 
+travel 1 8 
+instigate 1 
+government.The 1 
+variability 1 
+continue 1 2 3 4 5 
+tropical 1 
+climate 1 
+dry.14 1 
+build 1 2 
+coronavirus-fighting 1 
+antibodyResearchers 1 
+proteins 1 
+cells.Neutralizing 1 
+promising 1 5 
+experimental 1 2 
+treatment.A 1 
+Pamela 1 
+Bjorkman 1 
+Technology 1 9 
+Pasadena 1 
+determine 1 2 3 5 9 
+shape 1 
+attach 1 
+gain 1 4 5 
+foothold 1 
+O. 1 
+Barnes 1 
+//doi.org/fc8d 1 
+divide 1 3 4 5 9 
+cell-attachment 1 
+recognize.Further 1 
+foil 1 
+others.13 1 
+Common-cold 1 
+coronavirusResearch 1 
+archived 1 
+bear 1 
+hope 1 
+COVID-19.Paul 1 
+Bieniasz 1 
+Theodora 1 
+Hatziioannou 1 
+Rockefeller 1 
+blood-serum 1 
+Poston 1 
+//doi.org/fc4g 1 
+cold.The 1 
+dish 1 
+hybrid 1 
+engineer 1 
+crucial 1 
+invasion 1 
+role 1 3 4 9 
+fare 1 
+bad 1 3 9 
+Dense 1 
+brace 1 
+tear 1 
+generally 1 3 
+close-knit 1 
+spreading 1 
+crowded 1 6 
+neighbourhood 1 
+intermingle 1 
+ultimately 1 8 
+isolated 1 
+areas.Moritz 1 
+Kraemer 1 
+size 1 2 5 8 9 
+density 1 9 
+Rader 1 
+//doi.org/fcjk 1 
+validate 1 5 
+output 1 
+know 1 5 8 
+movement 1 7 
+Chinese 1 9 
+Wuhan 1 8 9 
+densely 1 
+province 1 
+Italy.The 1 
+predicts 1 
+short 1 4 8 9 
+intense 1 
+uncrowded 1 
+stick 1 
+rather 1 
+mingle 1 
+freely 1 7 9 
+however 1 3 6 9 
+cope 1 
+countryside.The 1 
+worldwide 1 2 7 
+Ulaanbaatar 1 
+Mongolia 1 
+short-term 1 
+explosion 1 
+settled 1 
+urban 1 
+centre 1 7 
+Madrid 1 
+protracted 1 
+outbreaks.6 1 
+Teenager 1 
+holidayA 1 
+13-year-old 1 
+girl 1 
+grandparent 1 
+occupy 1 
+holiday 1 
+house 1 
+adolescent 1 
+seed 1 
+cluster 1 
+cases.According 1 
+investigation 1 2 7 9 
+Noah 1 
+Schwartz 1 
+join 1 
+stay 1 9 
+5-bedroom 1 
+//doi.org/10.15585/mmwr.mm6940e2 1 
+Family 1 8 
+neither 1 
+wear 1 
+mask 1 
+maintain 1 2 5 
+distance 1 9 
+teenage 1 
+classify 1 4 7 9 
+probable 1 
+visit 1 2 3 4 5 8 9 
+ill.5 1 
+Massive 1 
+contact-tracing 1 
+effort 1 9 
+India 1 
+reveals 1 
+strike 1 4 
+trendsThe 1 
+differ 1 2 9 
+starkly 1 
+resource-poor 1 
+setting 1 5 6 8 
+wealthy 1 
+far 1 
+India.Joseph 1 
+Lewnard 1 
+Berkeley 1 
+Tamil 1 
+Nadu 1 
+Andhra 1 
+Pradesh 1 
+Laxminarayan 1 
+//doi.org/10.1126/science.abd7672 1 
+incidence 1 3 4 8 
+steadily 1 
+climb 1 
+Mortality 1 3 
+markedly 1 
+perhaps 1 2 
+younger.The 1 
+socialise 1 
+kid 1 
+spread.2 1 
+trait 1 
+reinfectionWaning 1 
+suggests.In 1 
+March 1 7 
+sixty 1 
+spent 1 
+milder 1 
+cough 1 2 
+shortness 1 
+breath.Genomic 1 
+Jason 1 
+Goldman 1 
+//doi.org/fbvj 1 
+decrease 1 2 5 9 
+measurement 1 4 
+benchmark 1 
+reviewed.1 1 
+fast-spreading 1 
+infectiousnessVariants 1 
+hamster 1 
+lack 1 2 4 6 
+change.In 1 
+February 1 
+alter 1 3 
+amino 1 
+acid 1 
+sequence 1 2 5 
+amino-acid 1 
+alteration 1 7 
+D614G 1 
+North 1 
+America 1 
+elsewhere 1 
+alteration.To 1 
+Pei-Yong 1 
+Shi 1 
+Branch 1 
+Galveston 1 
+Plante 1 
+//doi.org/fbxz 1 
+Ralph 1 
+Baric 1 
+Carolina-Chapel 1 
+Hill 1 
+Hou 1 
+//doi.org/fbxx 1 
+replicate 1 2 
+airway 1 3 
+tissue 1 7 
+review 1 2 3 4 5 6 
+yet.30 1 
+promise 1 
+peopleOlder 1 
+prominent 1 
+coronavirus.Evan 1 
+Emory 1 
+biotechnology 1 
+base 1 4 5 
+//doi.org/fbxj 1 
+consist 1 3 9 
+piece 1 
+modified 1 2 3 4 9 
+protein.Participants 1 
+neutralizing 1 4 
+disarm 1 
+invading 1 
+microbe 1 
+control-group 1 
+Any 1 
+moderate.28 1 
+Tests 1 
+silent 1 
+reinfections 1 
+workersTwo 1 
+reinfected 1 
+instance.The 1 
+employee 1 4 6 
+25-year-old-man 1 
+28-year-old 1 
+woman 1 2 7 9 
+Gupta 1 
+//doi.org/d97d 1 
+three-and-a-half 1 
+May.Genomic 1 
+Vinod 1 
+Scaria 1 
+Integrative 1 
+Biology 1 
+Delhi 1 
+genetically 1 
+anew 1 
+virus.The 1 
+underreported 1 
+say.25 1 
+breakdown 1 
+dire 1 
+illnessSome 1 
+healthy 1 
+dysfunction 1 2 9 
+immune-signalling 1 
+chemical 1 
+type-1 1 
+interferon 1 
+infection.Type-I 1 
+influenza 1 6 
+Jean-Laurent 1 
+Casanova 1 
+DNA 1 
+type-I 1 
+Q. 1 
+Zhang 1 
+//doi.org/d95p 1 
+render 1 
+unable 1 8 9 
+signalling 1 
+chemicals.In 1 
+severely 1 9 
+Paul 1 
+Bastard 1 
+unknown 1 3 4 5 8 9 
+//doi.org/d95q 1 
+general 1 7 8 
+Laboratory 1 9 
+auto-antibodies 1 
+knock 1 
+activity.The 1 
+disease.24 1 
+Extreme 1 
+quell 1 
+epidemicAs 1 
+two-thirds 1 
+Manaus 1 
+Amazonas 1 
+virus.Ester 1 
+Sabino 1 
+São 1 
+Paulo 1 
+August 1 4 5 6 
+F. 1 
+Buss 1 
+//doi.org/ghcm6h 1 
+herd 1 
+term 1 9 
+spread.The 1 
+source 1 3 
+reviewed.22 1 
+Good 1 3 4 
+timing 1 
+COVID-19People 1 
+disorganized 1 
+hard.The 1 
+adaptive 1 
+branch 1 
+invader 1 
+principle 1 4 5 
+Alessandro 1 
+Sette 1 
+fatal 1 
+Moderbacher 1 
+//doi.org/ghbwh7 1 
+fail 1 2 
+entire 1 5 
+arm 1 
+ramp 1 
+simultaneously 1 9 
+uncoordinated 1 
+weapon 1 
+coronavirus.21 1 
+Business-class 1 
+passenger 1 
+flightGenetic 1 
+strongly 1 4 
+married 1 
+couple 1 
+fly 1 
+Hong 1 
+Kong 1 
+attendant 1 
+trip.Researchers 1 
+Leo 1 
+Poon 1 
+Deborah 1 
+Watson-Jones 1 
+early-March 1 
+//doi.org/d9jn 1 
+husband 1 
+wife 1 
+travelling 1 
+crew 1 
+cabin 1 
+assignment 1 2 3 4 
+Canada 1 
+soon 1 2 
+arrive 1 
+shortly 1 
+thereafter.The 1 
+identical 1 4 
+American 1 3 4 9 
+transmit 1 
+in-flight 1 
+evidence.18 1 
+Musicians 1 
+monk 1 
+superspreading 1 
+KongAn 1 
+households.In 1 
+examination 1 9 
+Peng 1 
+Wu 1 
+Adam 1 5 
+//doi.org/d9c4 1 
+perform 1 3 4 5 
+bar 1 
+big 1 
+temple 1 
+infected.Nearly 1 
+anyone 1 8 
+downstream 1 
+wedding 1 
+restaurant 1 
+spread.17 1 
+Immunity 1 
+short-livedNatural 1 
+decades.Previous 1 
+matter 1 
+Lia 1 
+der 1 
+Hoek 1 
+Amsterdam 1 
+mid-1980s 1 
+Edridge 1 
+//doi.org/ghbm79 1 
+Infections 1 
+months.15 1 
+groundbreaking 1 
+guide 1 6 
+COVID-19A 1 
+attacking 1 
+inform 1 4 5 9 
+development 1 2 4 9 
+fend 1 
+Antibodies 1 2 5 
+inactivate 1 
+attractive 1 
+accumulate 1 9 
+forces.James 1 
+Crowe 1 
+Vanderbilt 1 
+Nashville 1 
+Tennessee 1 
+detailed 1 9 
+spike-protein 1 
+//doi.org/d8zm 1 
+antibodies.In 1 
+reviewed.14 1 
+Kids 1 
+childcare 1 
+familiesTwelve 1 
+twelve 1 
+Utah 1 
+presumptive 1 
+child.Cuc 1 
+Tran 1 
+investigate 1 3 4 7 9 
+Salt 1 
+Lake 1 5 
+Rept 1 
+//www.cdc.gov/mmwr/volumes/69/wr/mm6937e3.htm 1 
+s_cid=mm6937e3_w 1 
+known 1 6 
+symptoms.All 1 
+year 1 2 3 4 5 7 9 
+mother 1 
+sibling 1 
+eight-month-old 1 
+baby 1 
+parent 1 
+Not 1 
+say.11 1 
+illSome 1 
+incident 1 
+virus.Luca 1 
+Ferretti 1 
+someone 1 
+else 1 
+//doi.org/d8ms 1 
+.They 1 
+around 1 
+day.The 1 
+importance 1 5 
+physical 1 8 9 
+distancing 1 6 
+pre-symptomatic 1 
+self-isolation 1 
+fever 1 3 9 
+fatigue 1 2 9 
+mild.10 1 
+Surprise 1 
+tantalize 1 
+unveiledResearchers 1 
+discover 1 
+mysterious.Until 1 
+instruction 1 
+active 1 2 3 4 
+inside 1 
+uncertain 1 
+Noam 1 
+Stern-Ginossar 1 
+Weizmann 1 
+Rehovot 1 
+Israel 1 
+bound 1 
+protein-making 1 
+ribosome 1 
+Finkel 1 
+//doi.org/d8pb 1 
+scan 1 
+entirely 1 4 
+shorten 1 
+extend 1 
+proteins.Some 1 
+newfound 1 
+unknown.9 1 
+immune-cell 1 
+COVID-19Immune 1 
+neutrophil 1 
+prim 1 
+mildly 1 2 
+machine-learning 1 
+reproduce 1 
+aid 1 
+identification 1 
+critically 1 3 9 
+ill.Neutrophils 1 
+comprise 1 
+damage 1 7 9 
+Hyung 1 
+Chun 1 
+learn 1 
+Meizlish 1 
+//doi.org/d8hm 1 
+.Several 1 
+health 1 2 3 6 8 9 
+record 1 2 9 
+increased 1 7 
+mortality 1 2 3 5 9 
+ravage 1 
+unique 1 
+profileMost 1 
+failure 1 2 3 5 9 
+tease 1 
+devastating 1 
+multisystem 1 
+MIS-C.Doctors 1 
+hundred 1 
+MIS-C 1 
+share 1 2 4 5 7 
+similarity 1 
+childhood 1 
+Kawasaki 1 
+biological 1 7 
+profile 1 3 4 5 
+Petter 1 
+Brodin 1 
+Karolinska 1 
+Stockholm 1 
+Consiglio 1 
+//doi.org/d8fh 1 
+IL-17A 1 
+implicate 1 2 
+deficit 1 
+origin 1 
+say.4 1 
+Powerful 1 
+steroid 1 7 
+deathsPeople 1 
+corticosteroid 1 9 
+patient 1 2 3 4 5 7 8 9 
+continents.Earlier 1 
+dexamethasone 1 3 
+ventilator 1 3 
+Sterne 1 
+Bristol 1 
+meta-analysis 1 
+REACT 1 
+Working 1 
+Group 1 2 5 9 
+Am 1 
+Assoc 1 
+//doi.org/d7z8 1 
+status 1 2 3 4 
+randomly 1 2 3 4 5 
+assign 1 2 3 4 5 
+COVID-19.3 1 
+genomics 1 
+humansAn 1 
+Dutch 1 
+documented 1 
+animal-to-human 1 
+SARS-CoV-2.After 1 
+Centre 1 
+sequencing 1 
+track 1 
+Munnink 1 
+//doi.org/d7xn 1 
+farmworkers 1 
+them.Genetic 1 
+introduce 1 
+unchecked 1 
+reservoir 1 
+dwindlingA 1 
+sweeping 1 
+Iceland 1 
+endure 1 8 
+counter 1 
+disappear.After 1 
+invades 1 
+intruder 1 
+Scientists 1 
+generate 1 
+persist.Kari 1 
+Stefansson 1 
+deCODE 1 
+Genetics–Amgen 1 
+Reykjavik 1 
+Gudbjartsson 1 
+//doi.org/gg9hbt 1 
+Roughly 1 
+plateaued 1 
+duration 1 2 7 8 9 
+study.The 1 
+leave 1 2 8 
+vulnerable 1 6 7 
+wave 1 
+warn.1 1 
+Even 1 8 
+octogenarians 1 
+rip 1 
+England 1 3 
+80.During 1 
+residential 1 
+nursing 1 6 9 
+Shamez 1 
+Ladhani 1 
+//doi.org/d7p2 1 
+particular 1 3 9 
+cellsThe 1 
+guard 1 
+peer-reviewed.28 1 
+sleep-away 1 
+camp 1 
+outbreaksRigorous 1 
+infection-control 1 
+overnight 1 8 
+Maine 1 
+mid-August.Laura 1 
+Blaisdell 1 
+Portland 1 
+ask 1 9 
+attendee 1 
+camper 1 
+//www.cdc.gov/mmwr/volumes/69/wr/mm6935e1.htm 1 
+s_cid=mm6935e1_w 1 
+cohort 1 5 9 
+quarantine 1 
+cohort.Of 1 
+attendees.27 1 
+primary-school 1 
+pupil 1 
+spotChildren 1 
+aged 1 
+Kelly 1 
+Duke 1 
+Durham 1 
+Carolina 1 2 
+Hurst 1 
+//doi.org/d7cb 1 
+study.Only 1 
+showed 1 
+participants.Nearly 1 
+one-third 1 
+imply 1 
+child.Screening 1 
+day-care 1 
+age-related 1 
+Sex 1 
+drive 1 2 4 5 
+men 1 3 7 9 
+riskVariations 1 
+women.Akiko 1 
+All 1 5 
+Takahashi 1 
+//doi.org/d7gb 1 
+notice 1 
+male 1 4 7 
+typical 1 
+female 1 7 
+sex 1 9 
+gender 1 9 
+binary 1 
+fixed 1 4 
+inflammation-causing 1 
+cytokine 1 
+chemokines 1 
+severity 1 3 5 9 
+weak 1 
+T-cell 1 
+cytokines.The 1 
+propose 1 8 
+COVID-19.25 1 
+Reinfection 1 
+evidenceA 1 
+analysis.People 1 
+prevents 1 
+durability 1 
+signal 1 3 
+wane 1 
+prolong 1 
+shedding 1 
+materialKwok-Yung 1 
+Yuen 1 
+33-year-old 1 
+K.-W. 1 
+//doi.org/d7ds 1 
+Genetic 1 
+distinct 1 9 
+bout.The 1 
+fresh 1 
+antibodies.21 1 
+Vaccines 1 
+infectionStudies 1 
+nasal 1 9 
+vaccination 1 6 
+injected 1 
+vaccine.David 1 
+Curiel 1 
+Michael 1 
+Diamond 1 
+St 1 
+Missouri 1 
+Hassan 1 
+//doi.org/d63k 1 
+bioengineered 1 
+protein.After 1 
+insert 1 
+exposure 1 3 
+measurable 1 
+say.Ling 1 
+Chen 1 5 
+First 1 
+Affiliated 1 
+Guangzhou 1 
+Feng 1 
+Commun 1 
+mulatta 1 
+themselves.20 1 
+illnessA 1 
+East 1 
+Asia 1 
+unmutated 1 
+virus.In 1 
+Singapore 1 
+chunk 1 
+span 1 
+ORF7b 1 
+ORF8 1 
+deletion 1 
+Lisa 1 
+Network 1 3 
+Young 1 
+Lancet 1 
+//doi.org/d6x7 1 
+.None 1 
+supplemental 1 4 9 
+oxygen 1 2 3 9 
+Viruses 1 
+possibly 1 
+owe 1 5 9 
+measures.The 1 
+SARS 1 9 
+acquire 1 
+adaption 1 
+say.Correction 1 
+article 1 2 3 4 5 
+DNA.19 1 
+unprecedented 1 
+chart 1 
+proteinFor 1 
+intact 1 
+particles.Spike 1 
+decorate 1 
+lock 1 4 5 
+ACE2 1 4 
+entry 1 4 5 9 
+glean 1 
+express 1 9 
+purify 1 
+John 1 
+Briggs 1 
+Council 1 4 5 9 
+Molecular 1 
+electron 1 
+microscopy 1 
+Z. 1 
+Ke 1 
+//doi.org/d6sf 1 
+.These 1 
+closely 1 
+resemble 1 
+one 1 2 4 8 
+confirmation 1 
+open 1 2 3 4 5 
+Studying 1 
+spike-binding 1 
+Sailors 1 
+furnish 1 
+re-infectionA 1 
+massive 1 
+fishing 1 
+boat 1 
+spar 1 
+direct 1 3 7 9 
+reinfected.After 1 
+compound 1 
+reinfection.Alexander 1 
+Greninger 1 
+Addetia 1 
+//doi.org/d6qm 1 
+ship 1 
+departure 1 
+SARS-CoV2 1 
+shore.Post-voyage 1 
+122-person 1 
+embark 1 
+SARS-CoV-2.But 1 
+reviewed.7 1 
+low-cost 1 
+spitA 1 
+painless 1 
+spit 1 
+testing.Chantal 1 
+Vogels 1 
+simple 1 2 
+saliva 1 
+SalivaDirect 1 
+address 1 3 8 
+demand 1 2 
+extensive 1 
+lockdowns 1 
+lift 1 
+//doi.org/d5s3 1 
+.Compared 1 
+trained 1 9 
+professional 1 
+scarce 1 
+extract 1 
+validation 1 9 
+samples.The 1 
+cost-per-spit 1 
+request 1 5 
+authorize 1 3 
+emergency 1 2 4 5 
+use.6 1 
+protectionSome 1 
+pandemic.Previous 1 
+nevertheless 1 
+Daniela 1 
+Weiskopf 1 
+Mateus 1 
+//doi.org/d5v5 1 
+activate 1 
+weight 1 3 5 
+exist 1 
+conclusion.5 1 
+Antibody 1 
+blend 1 
+symptomsA 1 
+mixture 1 
+COVID-19.Neutralizing 1 
+Christos 1 
+Kyratsous 1 
+Pharmaceuticals 1 4 
+infected.The 1 
+Baum 1 
+//doi.org/d5r9 1 
+.Unlike 1 
+Syrian 1 
+golden 1 
+Mesocricetus 1 
+auratus 1 
+acutely 1 
+Summer-camp 1 
+childrenDespite 1 
+attend 1 4 8 9 
+Georgia.Christine 1 
+Szablewski 1 
+Department 1 4 5 
+//doi.org/d5ms 1 
+sleep 1 9 
+Campers 1 
+masks.The 1 
+teenager 1 
+Factors 1 
+describe 1 2 4 5 7 9 
+singing 1 
+cheer 1 
+.30 1 
+Vaccine 1 5 
+protects 1 4 
+infectionAn 1 
+completely 1 3 6 9 
+jab.Hanneke 1 
+Schuitemaker 1 
+Janssen 1 
+Leiden 1 
+Beth 1 
+Deaconess 1 
+Mercado 1 
+//doi.org/d5d4 1 
+weakened 1 
+cod 1 
+six.Across 1 
+not.29 1 
+unexposed 1 
+peopleImmune 1 
+prepared 1 
+virus.At 1 
+focus 1 2 3 4 5 7 8 
+route 1 
+Andreas 1 
+Thiel 1 
+react 1 
+Braun 1 2 
+//doi.org/d5bv 1 
+speculate 1 
+reactive 1 
+past 1 
+related 1 
+SARS-CoV-2.28 1 
+Mutations 1 
+elude 1 
+antibodiesMutations 1 
+thwart 1 
+molecules.The 1 
+immune-system 1 
+Researchers 1 
+elicit 1 
+vaccines.Theodora 1 
+vesicular 1 
+stomatitis 1 
+livestock 1 
+Weisblum 1 
+//doi.org/d439 1 
+engineered 1 
+antibodies.The 1 
+world 1 
+Treatment 1 
+cocktails 1 
+evolve 1 7 
+resistance 1 5 
+reviewed.27 1 
+virus-control 1 
+symptomsIn 1 
+metric 1 
+serial 1 
+interval 1 2 3 4 5 
+shrink 1 
+drastically 1 
+underscore 1 3 9 
+success 1 
+efforts.The 1 
+Benjamin 1 
+Cowling 1 
+plummet 1 
+5-week 1 
+period 1 2 3 4 7 9 
+Ali 1 
+//doi.org/gg5mpc 1 
+otherwise 1 4 9 
+fewer 1 
+shrank.The 1 
+real 1 
+transmissibility 1 
+virus.24 1 
+Dogs 1 
+cat 1 
+mirror 1 
+peopleCats 1 
+northern 1 7 
+Italy 1 7 
+pet 1 
+far.Nicola 1 
+Decaro 1 
+Bari 1 
+rectal 1 
+I. 1 
+Patterson 1 
+//doi.org/d4r7 1 
+COVID-19.None 1 
+circulating 1 
+infection.Infection 1 
+unusual 1 
+reviewed.24 1 
+Virus 1 
+Israeli 1 
+suspendedMore 1 
+secondary 1 2 3 4 5 9 
+remove 1 
+heat-wave.Roughly 1 
+fully 1 3 4 5 
+Stein-Zamir 1 
+Ministry 1 
+Euro 1 
+Surveill 1 
+//doi.org/d4sw 1 
+outbreak.The 1 
+heat-wave 1 
+heavy 1 
+air-conditioning 1 
+suspension 1 
+requirement 1 4 
+face 1 6 
+Crowding 1 
+classroom 1 
+space 1 5 8 
+allotment 1 6 
+square 1 2 5 
+metre 1 
+student.22 1 
+Severely 1 
+diverse 1 
+trove 1 
+antibodiesScientists 1 
+doses.The 1 5 
+hostile 1 
+Ho 1 
+Columbia 1 
+Vagelos 1 
+Physicians 1 
+Surgeons 1 
+Liu 1 9 
+//doi.org/d4md 1 
+.Nineteen 1 
+fasten 1 
+site 1 2 3 4 8 
+difficult 1 9 
+mutation.21 1 
+Viral 1 2 4 5 
+treatmentThe 1 
+clinician 1 
+decide 1 2 6 
+best 1 9 
+Switzerland.Onya 1 
+Opota 1 
+Lausanne 1 
+volume 1 9 
+Jacot 1 
+//doi.org/d4b8 1 
+Early 1 2 
+gradually 1 
+progress 1 9 
+characterize 1 4 
+thus 1 3 4 
+serve 1 
+cue 1 
+drugs.But 1 
+correlation 1 
+good 1 2 4 5 6 8 9 
+predictor 1 4 5 
+Antiviral 1 
+peter 1 
+infectionKey 1 
+comprehensive 1 
+yet.Neutralizing 1 
+weeks.Katie 1 
+Doores 1 
+Seow 1 
+//doi.org/d3s2 1 
+preprint 1 
+disease.However 1 
+undetectable 1 
+promote 1 
+antibodies.15 1 
+Positive 1 
+hop 1 
+top 1 
+candidateA 1 
+safety 1 2 3 4 5 
+participants.The 1 
+co-developed 1 
+response.Lisa 1 
+Jackson 1 
+Kaiser 1 
+Permanente 1 
+injection 1 
+//doi.org/d3tt 1 
+complication 1 4 9 
+fever.After 1 
+capable 1 
+30,000-participant 1 
+III 1 
+July.15 1 
+Severe 1 2 4 
+telltale 1 
+profileScientists 1 
+signature 1 
+disease.Benjamin 1 
+Terrier 1 
+Hadjadj 1 
+//doi.org/gg4vjx 1 
+Compared 1 7 9 
+intensive-care 1 
+units.The 1 
+Treatments 1 
+say.13 1 
+interior 1 
+tag 1 
+along 1 
+move 1 9 
+coastal 1 
+import 1 
+models.Alessandro 1 
+Vespignani 1 
+Northeastern 1 
+traffic 1 
+commute 1 
+Davis 1 
+//doi.org/d3mf 1 
+international 1 
+introduction 1 
+non-coastal 1 
+traveller 1 
+visitor 1 8 
+largely 1 9 
+reviewed.10 1 
+nightclubsMobile 1 
+credit 1 
+card 1 
+fast-moving 1 
+popular 1 
+nightclub 1 
+Seoul.Soon 1 
+Korean 1 
+note 1 3 5 
+Seoul 1 
+Itaewon 1 
+club 1 
+Jin 1 9 
+Yong 1 
+Boramae 1 
+mobile 1 
+payment 1 
+Kang 1 
+//doi.org/gg4fhj 1 
+encourage 1 
+undergo 1 2 4 5 7 9 
+SARS-CoV-2.By 1 
+step 1 
+club-goers.9 1 
+soar 1 
+weeklyTo 1 
+safely 1 
+campus 1 
+days.David 1 
+Paltiel 1 
+80-day 1 
+semester 1 
+//doi.org/d3cc 1 
+.In 1 
+cost 1 2 3 
+However 1 2 3 4 5 7 8 9 
+weekly 1 3 
+growth 1 
+infections.If 1 
+manageable 1 
+stress 1 9 
+preventive 1 
+essential 1 6 9 
+wildly 1 
+disparate 1 
+ratesEurope 1 
+symptoms.Between 1 
+Marina 1 
+Pollán 1 
+Carlos 1 2 
+select 1 2 4 9 
+//doi.org/gg332t 1 
+geographical 1 7 
+variation 1 
+provinces.Nationwide 1 
+basis 1 2 4 6 
+symptoms.7 1 
+Autopsies 1 
+autopsy-based 1 
+mismatch 1 
+hotspot 1 
+death.Numerous 1 
+Christopher 1 
+Lucas 1 
+Dorward 1 
+Edinburgh 1 
+autopsy 1 
+//doi.org/d27t 1 
+anatomical 1 
+inflame 1 
+Test 1 
+sensitivity 1 
+outbreaksCommunities 1 
+spiral 1 
+insensitive 1 
+test.Tests 1 
+rely 1 
+technique 1 
+quantitative 1 4 5 
+qPCR 1 
+mere 1 
+trace 1 
+expensive 1 
+Mina 1 
+//doi.org/d2gt 1 
+pair 1 
+finely 1 
+Achilles 1 
+heelScientists 1 
+feat 1 
+cells.Before 1 
+fastens 1 
+sit 1 3 
+//doi.org/dz8r 1 
+current 1 2 4 9 
+pandemic.The 1 
+impair 1 
+knowledge 1 9 
+striking 1 
+classic 1 2 
+symptomsLess 1 
+Italy.More 1 
+Lombardy 1 7 
+epicentre 1 
+Piero 1 
+Poletti 1 
+Bruno 1 
+Kessler 1 
+Trento 1 
+Marcello 1 
+Tirani 1 
+Protection 1 6 
+Agency 1 
+Pavia 1 
+person.Roughly 1 
+//arxiv.org/abs/2006.08471 1 
+developed 1 
+odds 1 9 
+preparation 1 
+CRISPR 1 
+invasionA 1 
+trawl 1 
+CRISPR–Cas9 1 
+genome-editing 1 
+hosts.The 1 
+discovery 1 5 
+Doench 1 
+Broad 1 
+MIT 1 
+Craig 1 
+Wilen 1 
+cultured 1 
+host-cell 1 
+Wei 1 
+//doi.org/dzz3 1 
+code 1 
+assist 1 
+TGF-β 1 
+pathway 1 
+Chemicals 1 
+inhibit 1 
+coronavirus-induced 1 
+Youth 1 
+contactsPeople 1 
+elder 1 
+member.Yang 1 
+Yang 1 
+Florida 1 
+Gainesville 1 
+Zhi-Cong 1 
+Jing 1 
+//doi.org/dznw 1 
+institute 1 
+above.The 1 
+facility 1 6 8 
+families.17 1 
+problem 1 8 9 
+extent 1 9 
+underlying 1 6 9 
+disease.Andrew 1 
+Clark 1 
+cardiovascular 1 2 9 
+predispose 1 
+Glob 1 
+//doi.org/dzk9 1 
+Analysing 1 
+elevate 1 
+infected.These 1 
+high-risk 1 3 5 6 
+say.16 1 
+Swiss 1 2 
+infectionChildren 1 
+Geneva 1 
+Switzerland.Silvia 1 
+Stringhini 1 
+Hospitals 1 
+//doi.org/dzh5 1 
+tested 1 
+positive.The 1 
+stem 1 
+response.15 1 
+Bars 1 
+karaoke 1 
+gym 1 
+superspread 1 
+Clusters 1 
+breathe 1 2 3 
+pack 1 
+session 1 
+Japan.Hitoshi 1 
+Oshitani 1 
+Tohoku 1 
+Sendai 1 
+Japan 1 
+venue 1 
+Furuse 1 
+//doi.org/ggz2hg 1 
+nurse 1 
+musical 1 
+workplaces.One 1 
+concert 1 
+example 1 2 9 
+performer 1 
+audience 1 
+staff.The 1 8 
+virus.12 1 
+Modified 1 3 
+quest 1 
+drugsTwo 1 
+harmless 1 
+impervious 1 
+Transgenic 1 
+scarce.To 1 
+St. 1 5 
+Jincun 1 
+Zhao 1 
+adenovirus 1 
+workhorse 1 
+deliver 1 
+pneumonia.Diamond 1 
+successfully 1 4 
+//doi.org/dzbk 1 
+//doi.org/dzbm 1 
+headline 1 
+Asia.COVID-19 1 
+Oliver 1 
+Pybus 1 
+Andrew 1 
+Rambaut 1 
+Virological 1 
+//go.nature.com/37ieyvw 1 
+border 1 
+underestimate.Travellers 1 
+People 1 
+reviewed.11 1 
+conscript 1 
+cellsResearchers 1 
+us 1 
+drugs.The 1 
+Spike 1 2 
+neuropilin-1 1 
+NRP1 1 
+invasion.Peter 1 
+Cullen 1 
+Yohei 1 
+Yamauchi 1 
+fragment 1 
+Cantuti-Castelvetri 1 
+//doi.org/dx5c 1 
+Mikael 1 
+Simons 1 
+Technical 1 
+Munich 1 
+Daly 1 
+//doi.org/dx5d 1 
+laboratory.The 1 
+virus-sized 1 
+interaction 1 7 
+combat 1 6 
+infection.Neither 1 
+fine 1 
+unknowingly 1 
+Vietnam 1 
+others.Early 1 
+admit 1 5 7 8 9 
+negative.Of 1 
+mid-March 1 
+Le 1 
+Van 1 
+Tan 1 
+Clinical 1 3 4 5 7 9 
+Unit 1 
+Chi 1 
+Minh 1 
+Chau 1 
+//doi.org/ggzfz9 1 
+.Nasal 1 
+point 1 2 3 4 5 
+say.8 1 
+June— 1 
+Lockdowns 1 
+pandemicLockdowns 1 
+resounding 1 
+effectiveness.Samir 1 
+Bhatt 1 
+COVID-19-related 1 7 
+European 1 
+Flaxman 1 
+//doi.org/dxxs 1 
+policy 1 6 7 8 
+aim 1 2 9 
+May.In 1 
+halt 1 
+face-to-face 1 7 9 
+.Solomon 1 
+Hsiang 1 
+//doi.org/dxxt 1 
+avert 1 2 
+infections.This 1 
+spread.5 1 
+Surfaces 1 
+spreadContaminated 1 
+minor 1 
+households.Ricarda 1 
+Schmithausen 1 
+Bonn 1 
+Döhla 1 
+//doi.org/dxqn 1 
+touched 1 
+object 1 
+door 1 
+knob 1 
+bathroom 1 
+drain 1 
+toilet 1 
+samples.All 1 
+aerosol 1 
+interpret 1 4 
+cautiously.The 1 
+exhale 1 
+coughed 1 
+droplet 1 
+main 1 9 
+wastewater 1 
+add.The 1 
+reviewed.4 1 
+Blood 1 
+riskResearchers 1 
+COVID-19.Tom 1 
+Karlsen 1 
+Oslo 1 
+Ellinghaus 1 
+//doi.org/dxk7 1 
+disease.One 1 
+lie 1 
+swathe 1 
+A+ 1 
+flag 1 
+chromosome 1 
+interact 1 8 
+molecular 1 
+hail 1 
+infectionA 1 
+hydroxychloroquine 1 9 
+COVID-19.Some 1 
+leader 1 
+embrace 1 6 
+agent 1 2 3 4 5 
+Boulware 1 
+Minnesota 1 
+Minneapolis 1 
+//doi.org/dxkv 1 
+person.About 1 
+placebo.The 1 2 
+caveat 1 
+Therefore 1 2 4 5 
+unaccounted 1 
+for.2 1 
+Could 1 
+downplay 1 
+underestimate 1 7 
+SARS-CoV-2.In 1 
+Isabel 1 
+Rodríguez-Barraquer 1 
+OSF 1 
+Preprints 1 
+//doi.org/dxc2 1 
+fraction 1 2 5 
+symptoms.The 1 
+guarantee 1 
+infectiousnessPeople 1 
+cells.Jared 1 
+Bullard 1 
+Manitoba 1 
+Winnipeg 1 
+//doi.org/dw8z 1 
+RNA-positive 1 
+necessarily 1 8 
+infectious.Hospital 1 
+strictly 1 
+says.29 1 
+infectionThe 1 
+starting 1 
+infections.Richard 1 
+Boucher 1 
+Chapel 1 
+ease 1 
+tract 1 5 
+gradient 1 
+infectivity 1 4 
+upper 1 2 3 5 
+cavity 1 
+deep 1 9 
+//doi.org/dw2j 1 
+neatly 1 
+sneak 1 
+preventative 1 
+cleansing.28 1 
+lost 1 
+opportunity 1 8 9 
+StatesGenomic 1 
+contradict 1 
+high-profile 1 
+States.In 1 
+publicize 1 
+silently 1 
+designate 1 4 
+WA1 1 
+transmission.But 1 
+Worobey 1 
+Arizona 1 
+Tucson 1 
+wider 1 
+//doi.org/dwx3 1 
+reviewed.The 1 
+actual 1 3 
+say.27 1 
+Superspread 1 
+portion 1 4 
+infectionsAn 1 
+extremely 1 
+analysis.Adi 1 
+Stern 1 
+Tel 1 
+Aviv 1 
+Miller 1 
+//doi.org/dwvb 1 
+illustrate 1 
+superspreaders 1 
+transmission.The 1 
+traveler 1 
+disproportionate 1 3 
+explanation 1 
+ban 1 
+arrivals.26 1 
+Exposed 1 
+adultsChildren 1 
+systematic 1 3 
+journal 1 
+preprints 1 
+reports.Russell 1 
+Viner 1 
+screen 1 2 4 
+meet 1 2 3 5 9 
+criterion 1 2 3 4 5 7 9 
+inclusion 1 3 4 5 
+//doi.org/dwp6 1 
+.Studies 1 
+conclude.The 1 
+reviewed.25 1 
+Trump 1 6 
+favour 1 
+benefit 1 2 3 4 8 9 
+doesWorld 1 
+President 1 
+Donald 1 
+tout 1 
+antimalarial 1 5 
+abnormal 1 9 
+rhythms.Mandeep 1 
+Mehra 1 
+Heart 1 
+Vascular 1 
+draw 1 
+continent 1 
+//doi.org/ggwzsb 1 
+chloroquine 1 9 
+antibiotic.Compared 1 
+disordered 1 
+heartbeat 1 
+arrhythmia 1 
+drugs.A 1 
+Beigel 1 
+Rockville 1 
+double-blind 1 2 3 4 5 
+//doi.org/dwkd 1 
+.Editors 1 
+retraction 1 
+//www.thelancet.com/lancet/article/s0140673620313246 1 
+controversial 1 
+paper 1 2 
+hydroxychloroquine.22 1 
+coronavirusMonkeys 1 
+virus.Dan 1 
+explore 1 5 9 
+compose 1 3 
+//doi.org/dwfb 1 
+system.The 1 
+multiplication 1 
+unvaccinated 1 
+check.21 1 
+Potent 1 
+inspire 1 
+vaccineA 1 
+disease.Davide 1 
+Robbiani 1 
+//doi.org/ggwfcm 1 
+reviewed.People 1 
+universally 1 
+effective.21 1 
+Monkeys 1 
+resist 1 
+virusMonkeys 1 
+unclear.Public-health 1 
+issue 1 3 6 7 9 
+appetite 1 
+Chandrashekar 1 
+//doi.org/dwck 1 
+.Roughly 1 
+following 1 2 3 4 7 9 
+virus.20 1 
+organs 1 
+brainAutopsies 1 
+kidney 1 9 
+brain 1 
+organs.COVID-19 1 
+principally 1 
+consider 1 3 4 9 
+non-respiratory 1 
+stroke 1 9 
+Tobias 1 
+Huber 1 
+Hamburg-Eppendorf 1 
+abundant 1 
+Puelles 1 
+//doi.org/dv56 1 
+scrutinize 1 
+database 1 4 5 
+Additional 1 4 
+examined 1 
+compartment 1 
+illness.19 1 
+relativeAn 1 
+distant 1 8 
+dub 1 
+S309 1 
+Davide 1 
+Corti 1 
+Bellinzona 1 
+Switzerland 1 
+Pinto 1 
+//doi.org/dv4x 1 
+structural 1 3 
+attachment 1 
+coronavirus-targeted 1 
+alone.18 1 
+ownersThe 1 
+owner 1 
+people.The 1 
+Sit 1 
+//doi.org/dvt4 1 
+Only 1 5 9 
+Pomeranian 1 
+German 1 
+shepherd 1 
+noticeably 1 
+sick.The 1 
+people.15 1 
+damageAn 1 
+animals.Vincent 1 
+Munster 1 
+Hamilton 1 
+Montana 1 
+Sarah 1 
+Gilbert 1 
+Doremalen 1 
+//doi.org/dvvd 1 
+Vaccinated 1 
+multiply 1 
+way.15 1 
+Lifting 1 
+spell 1 
+FranceMore 1 
+stood 1 
+immunity.Simon 1 
+Cauchemez 1 
+Pasteur 1 
+Salje 1 
+//doi.org/dvt3 1 
+project 1 
+relax 1 
+infected.Some 1 
+write.14 1 
+choir 1 
+infects 1 
+dozensA 1 
+State 1 
+died.Lea 1 
+Hamner 1 
+Skagit 1 
+Vernon 1 
+numerous 1 6 7 
+COVID-like 1 
+evening 1 
+2.5-hour 1 
+attendance 1 
+confirmed 1 4 9 
+additional 1 2 3 4 5 
+infections.Choir 1 
+close-packed 1 
+row 1 
+sang 1 
+emphasize 1 3 
+crowd 1 
+bay 1 
+say.14 1 
+hospitalChildren 1 
+Europe.Silvia 1 
+Garazzino 1 
+Turin 1 
+clinic 1 7 9 
+Eurosurveillance 1 
+//doi.org/dvk8 1 
+reviewed.Nearly 1 
+infant 1 
+overall 1 3 4 5 7 8 
+.Two-thirds 1 
+did.13 1 
+commutersNew 1 
+commuter 1 
+months.To 1 
+Stephen 1 
+birth 1 
+//bit.ly/2Aq7dpb 1 
+Facebook 1 
+trip 1 
+residents.Many 1 
+say.12 1 
+coronavirusPeople 1 
+immune.Niloufar 1 
+Kavian 1 
+Valkenburg 1 
+want 1 
+Hachim 1 
+//doi.org/ggtrxh 1 
+controls.Much 1 
+determinant 1 3 
+SARS-CoV-2.11 1 
+High 1 
+minority 1 3 
+ethnic 1 3 
+troubling 1 
+mysteryPeople 1 
+white 1 9 
+socioeconomic 1 3 
+factor 1 3 4 5 7 8 9 
+risk.In 1 
+kind 1 
+Ben 1 
+Goldacre 1 
+Williamson 1 
+//doi.org/dt9z 1 
+coronavirus.But 1 
+belong 1 
+heighten 1 
+disadvantage 1 
+income 1 
+urgent 1 4 
+disease.8 1 
+recoveredNearly 1 
+everyone 1 
+disease.Ania 1 
+Cordon-Cardo 1 
+length 1 
+//doi.org/dt5t 1 
+antibodies.Almost 1 
+laypeople 1 
+coronavirusA 1 
+gene-editing 1 
+specialized 1 
+equipment 1 8 
+train 1 
+personnel.Feng 1 
+procedure 1 7 8 9 
+reagent 1 
+CRISPR-based 1 
+protocol 1 2 3 4 5 
+layperson 1 
+access 1 2 3 4 8 9 
+sous 1 
+vide 1 
+cooker 1 
+kitchen 1 
+commonly 1 2 3 
+Joung 1 
+//go.nature.com/35csgqk 1 
+strip 1 
+pregnancy 1 
+office 1 
+workplace 1 
+necessary.6 1 
+Speedy 1 
+churn 1 
+synthetic 1 7 
+virusesResearchers 1 
+yeast 1 
+achieve.The 1 
+Joerg 1 
+Jores 1 
+Volker 1 
+Bern 1 
+overlap 1 3 
+stretch 1 8 
+convert 1 
+Thao 1 
+//doi.org/ggttcr 1 
+Saccharomyces 1 
+cerevisiae 1 
+stitch 1 
+complete 1 2 3 4 5 9 
+genome.The 1 
+strand 1 
+assemble 1 
+say.5 1 
+answerNew 1 
+painful 1 
+China.Marco 1 
+Ajelli 1 
+authority 1 
+mandate 1 6 
+stringent 1 
+//doi.org/ggthtr 1 
+drastic 1 
+cities.The 1 
+relieve 1 
+hospitals.Another 1 
+Shengjie 1 
+Lai 1 
+Southampton 1 
+detection 1 2 4 
+//doi.org/dtr4 1 
+well.If 1 
+epidemic-control 1 
+delay 1 
+higher 1 9 
+found.4 1 
+Portraits 1 
+enzyme 1 4 5 9 
+hunt 1 
+drugsMolecular 1 
+clue 1 
+virus.Remdesivir 1 
+RNA-dependent 1 
+polymerase.A 1 
+Patrick 1 
+Cramer 1 
+Max 1 
+Planck 1 
+Biophysical 1 
+Chemistry 1 
+Göttingen 1 
+imaging 1 3 9 
+cryo-electron 1 
+Hillen 1 
+//doi.org/dtgw 1 
+post 1 4 5 
+compounds.A 1 
+Eric 1 
+Xu 1 
+Materia 1 
+Medica 1 
+solve 1 
+snippet 1 
+Yin 1 
+//doi.org/dtnb 1 
+COVID-19The 1 
+differs 1 
+ferret 1 
+idea 1 
+treatments 1 
+COVID-19.Benjamin 1 
+tenOever 1 
+unusually 1 
+Blanco-Melo 1 
+//go.nature.com/3bWE82b 1 
+controls.The 1 
+imbalance 1 2 
+replication 1 
+less-specific 1 
+inflammation.30 1 
+COVID-19Children 1 
+Shenzhen 1 
+China.Justin 1 
+Lessler 1 
+Johns 1 
+Hopkins 1 
+Bloomberg 1 
+Baltimore 1 6 
+Tiejian 1 
+Bi 1 
+//doi.org/dtd7 1 
+online 1 2 
+//doi.org/dpf9 1 
+original 1 
+write.29 1 
+hijack 1 
+defencesThe 1 
+interaction.To 1 
+Alex 1 
+Shalek 1 
+Jose 1 2 
+Ordovas-Montanes 1 
+Ziegler 1 
+//doi.org/ds9j 1 
+tract.The 1 
+flu 1 
+switch 1 
+ACE2.28 1 
+Dry 1 
+workaround 1 6 
+test-chemical 1 
+scarcityWide-scale 1 
+shortage 1 3 
+solution 1 4 
+overcome 1 
+difficulty 1 9 
+Lea 1 
+Starita 1 
+Jay 1 
+Shendure 1 
+sought 1 
+Srivatsan 1 
+//doi.org/ds6k 1 
+extraction-free 1 
+correctly 1 4 
+Conventional 1 
+extraction 1 
+enable 1 
+scale-up 1 
+self-collected 1 
+centralize 1 
+laboratories.27 1 
+airborne 1 
+RNAThe 1 
+people.Ke 1 
+Lan 1 
+//doi.org/10.1038/s41586-020-2271-3 1 
+elevated 1 3 
+changing 1 
+room 1 8 
+disinfect 1 
+Low 1 
+well-ventilated 1 
+wards.The 1 
+routine 1 8 
+disinfection 1 
+spread.24 1 
+Spit 1 
+shortagesA 1 
+accurately 1 
+safer 1 
+available.The 1 
+rub 1 
+sneeze 1 
+barrage 1 
+particles.Anne 1 
+Wyllie 1 
+//doi.org/ggssqf 1 
+throat-swab 1 
+Saliva 1 
+infected.23 1 
+Intensive 1 
+Italian 1 7 
+town.On 1 
+Vo 1 
+service 1 3 8 
+commercial 1 2 
+Andrea 1 2 
+Crisanti 1 
+lockdown.The 1 
+Lavezzo 1 
+//doi.org/ggsmcj 1 
+infectiousness 1 
+not.Asymptomatic 1 
+strict 1 7 8 
+say.22 1 
+trialAn 1 
+COVID-19.A 1 
+Chuan 1 
+Qin 1 
+Peking 1 9 
+Union 1 5 9 
+Beijing 1 9 
+chemically 1 
+inactivated 1 
+Gao 1 
+//doi.org/dskt 1 
+intentionally 1 
+virus.All 1 
+exposed 1 
+approval 1 3 4 9 
+it.20 1 
+harsh 1 
+restrictionsHong 1 
+elsewhere.In 1 
+attempt 1 8 
+programme 1 
+quarantining 1 
+//doi.org/dsfw 1 
+behavioural 1 
+government 1 6 
+found.17 1 
+promiseA 1 
+safe 1 3 5 
+vaccine.Coronavirus 1 
+bristle 1 
+spiny 1 
+recognizes 1 
+attache 1 
+cells.Hyeryun 1 
+Choe 1 
+Farzan 1 
+Scripps 1 
+Jupiter 1 
+immunize 1 6 
+rat 1 
+Quinlan 1 
+//doi.org/ggrs5t 1 
+cells.Further 1 
+vaccines.16 1 
+Ski 1 
+buff 1 
+IcelandHolidaymakers 1 
+ski 1 
+Alps 1 
+Iceland.In 1 
+Kari 1 
+Genetics-Amgen 1 
+//doi.org/ggr6wx 1 
+strain 1 
+originate 1 
+Austria 1 
+Alpine 1 
+resorts.Tests 1 
+successful 1 
+Iceland.15 1 
+Relief 1 
+unleash 1 
+anewCases 1 
+social-distancing 1 
+models.Yonatan 1 
+Grad 1 
+Marc 1 2 
+Lipsitch 1 
+temperate 1 
+S.M 1 
+//doi.org/drz3 1 
+year.If 1 
+repeated 1 
+wintertime 1 
+say.15 1 
+Common 1 3 
+diagnosisA 1 
+genomic-analysis 1 
+COVID-19.In 1 
+Schmid-Burgk 1 
+barcode 1 
+//doi.org/drzc 1 
+High-speed 1 
+instrument 1 
+time.The 1 
+anticipate 1 5 
+million 1 
+techniques.Correction 1 
+name 1 
+correspond 1 5 9 
+Schmid-Burgk.10 1 
+drugsScientists 1 
+crystal 1 
+protease 1 
+cells.Hualiang 1 
+Jiang 1 
+Zihe 1 
+Rao 1 
+Haitao 1 
+ShanghaiTech 1 
+deposit 1 
+ago 1 
+//doi.org/10.1038/s41586-020-2223-y 1 
+inhibitor 1 
+ebselen 1 
+people.These 1 
+infiltrate 1 
+hollow 1 
+Proteases 1 
+wide 1 2 5 
+coronaviruses.9 1 
+Absent 1 
+responseAfter 1 
+SARS-Cov-2 1 
+undetectable.When 1 
+foreign 1 
+intrudes 1 
+Jinghe 1 
+Huang 1 
+Fan 1 
+novel 1 4 7 
+//doi.org/dxb9 1 
+rid 1 
+infections.8 1 
+illViral 1 
+teams.Kwok-Yung 1 
+Kong–Shenzhen 1 
+peak.The 1 
+excrete 1 
+//doi.org/ggp4qx 1 
+Zou 1 
+//doi.org/ggmzsp 1 
+.However 1 
+admission 1 2 3 5 7 
+//doi.org/dqrr 1 
+Nanchang 1 
+comparison 1 2 5 9 
+subtle 1 
+virusDoctors 1 
+reverse-transcription 1 
+qRT-PCR 1 
+Nathan 1 
+Grubaugh 1 
+reliably 1 
+//www.medrxiv.org/content/10.1101/2020.03.30.20048108v1 1 
+.But 1 
+third 1 8 
+Charité–Universitätsmedizin 1 
+samples.5 1 
+Bats 1 
+culpritViruses 1 
+horseshoe 1 
+bat 1 
+ready 1 
+decade 1 
+maybe 1 
+longer.David 1 
+Boni 1 
+//doi.org/10.1101/2020.03.30.015008 1 
+Rhinolophus 1 
+spp 1 
+expand 1 8 
+lineage 1 
+ancestor 1 
+split 1 9 
+RaTG13 1 
+humans.The 1 
+directly 1 2 3 8 9 
+specie 1 
+straight 1 
+human.3 1 
+Masks 1 
+virusSurgical 1 
+effectively 1 
+SARS-CoV-2.Seasonal 1 
+enclosed 1 
+booth 1 
+sampling 1 9 
+device 1 
+Gesundheit-II 1 
+capture 1 9 
+Leung 1 
+//doi.org/10.1038/s41591-020-0843-2 1 
+coarse 1 
+finer 1 
+emit 1 
+Mask 1 
+Larger 1 
+breath 1 2 
+diameter 1 
+micrometres 1 
+less.The 1 
+surgical 1 
+influenza.Correction 1 
+DNA.1 1 
+llamas 1 
+virusAntibodies 1 
+llama 1 
+Lama 1 
+glama 1 
+Bert 1 
+Schepens 1 
+Xavier 1 
+Saelens 1 
+VIB 1 
+life-sciences 1 
+Ghent 1 
+Belgium 1 
+McLellan 1 
+Austin 1 
+Wrapp 1 
+//doi.org/10.1101/2020.03.26.010165 1 
+Middle 1 
+MERS 1 
+mop 1 
+coronavirus.Fusing 1 
+Debilitated 1 
+rally 1 
+survivor 1 9 
+bloodPeople 1 
+improvement 1 3 4 5 9 
+infusion 1 2 3 4 5 
+teams.Both 1 
+COVID-19.Xiaoming 1 
+Engineering 1 6 
+Combined 1 
+sixth 1 
+Duan 1 
+//doi.org/dqrs 1 
+.A 1 
+Lei 1 
+Third 1 
+Shen 1 
+//doi.org/dqn7 1 
+Symptoms 1 
+longer 1 8 
+ventilators.Other 1 
+like 1 
+transfusion 1 2 
+exposed.27 1 
+treatmentsA 1 
+list 1 2 4 5 
+people.A 1 
+Nevan 1 
+Krogan 1 
+Gordon 1 
+//doi.org/10.1101/2020.03.22.002386 1 
+physically 1 
+proteins.Out 1 
+disrupt 1 
+collaborator 1 
+urge 1 6 
+AbstractBACKGROUNDTherapies 2 
+interrupt 2 
+Covid-19 2 3 4 5 6 
+elusive 2 
+convalescent 2 5 9 
+unsuccessful 2 
+earlier 2 
+illness.METHODSWe 2 
+placebo-controlled 2 3 4 5 
+IgG 2 4 9 
+titer 2 4 
+primary 2 3 4 5 9 
+define 2 4 5 9 
+saturation 2 3 
+ambient 2 3 
+projected 2 
+considerably 2 6 
+steady 2 
+enrollment 2 3 4 5 
+virtually 2 
+impossible.RESULTSA 2 
+underwent 2 3 4 5 9 
+randomization 2 3 4 5 
+intention-to-treat 2 3 
+confidence 2 3 4 5 
+[ 2 3 4 5 9 
+CI 2 3 4 5 9 
+] 2 3 4 5 9 
+P=0.03 2 
+end-point 2 
+solicited 2 
+adverse 2 3 4 5 
+observed.CONCLUSIONSEarly 2 
+administration 2 6 
+high-titer 2 
+Funded 2 3 4 5 
+Bill 2 
+Melinda 2 
+Gates 2 
+Pandemic 2 
+Fund 2 9 
+Dirección 2 
+Sangre 2 
+Medicina 2 
+Transfusional 2 
+Ministerio 2 
+Salud 2 
+PAEPCC19 2 
+Plataforma 2 
+Registro 2 
+Informatizado 2 
+Investigaciones 2 
+ClinicalTrials.gov 2 3 4 5 
+NCT04479163 2 
+tab 2 3 4 5 
+etiologic 2 
+group.1,2 2 
+Various 2 
+coexist 2 3 5 6 
+adversely 2 
+prognosis 2 
+regardless 2 4 
+hypertension 2 5 9 
+obesity 2 5 
+chronic 2 5 7 9 
+renal 2 9 
+obstructive 2 9 
+pulmonary 2 7 9 
+COPD 2 
+.1,2Treatments 2 
+Few 2 
+evaluated.3-12 2 
+patients.7-12 2 
+Plasma 2 9 
+events13 2 
+improved 2 
+diseases.14-16 2 
+effective.14-16In 2 
+hospitalized 2 3 4 5 
+consequently 2 
+appropriate 2 9 
+unclear.7-12 2 
+evaluate 2 3 4 5 9 
+efficacious 2 3 5 
+Covid-19. 2 5 
+MethodsTRIAL 2 3 4 5 
+DESIGN 2 3 5 
+AND 2 3 4 5 
+OVERSIGHTWe 2 3 
+randomize 2 3 4 5 
+geriatric 2 
+unit 2 3 8 9 
+Argentina 2 
+institutional 2 3 4 
+board 2 3 4 
+participating 2 
+institution 2 7 
+supervise 2 
+manuscript 2 3 4 9 
+Table 2 3 4 5 
+S15 2 
+Supplementary 2 3 4 5 
+Appendix 2 3 4 5 
+full 2 3 4 5 9 
+text 2 3 4 5 
+NEJM.org 2 3 4 5 
+vouch 2 3 4 
+completeness 2 3 4 
+adherence 2 
+analyze 2 4 
+draft 2 3 9 
+writing 2 9 
+confidentiality 2 4 
+agreement 2 4 
+sponsor 2 3 5 
+institutions.TRIAL 2 
+PATIENTSPatients 2 
+irrespective 2 
+coexisting 2 3 6 
+eligibility 2 
+Coexisting 2 
+S1 2 3 4 5 
+currently 2 7 
+pharmacologic 2 5 
+reverse-transcriptase–polymerase-chain-reaction 2 4 5 
+RT-PCR 2 4 5 
+eligible 2 3 4 9 
+category 2 3 9 
+unexplained 2 
+sweating 2 
+chill 2 
+dyspnea 2 
+myalgia 2 
+anorexia 2 
+sore 2 
+dysgeusia 2 
+anosmia 2 
+rhinorrhea 2 
+Exclusion 2 
+S5 2 3 4 
+both.Patients 2 
+consent 2 3 4 7 9 
+nasopharyngeal 2 4 5 7 
+oropharyngeal 2 
+secretion 2 5 
+obtain 2 4 5 7 9 
+iAMP 2 
+Atila 2 
+BioSystems 2 
+Patients 2 3 4 5 9 
+invite 2 9 
+informed-consent 2 
+legal 2 
+guardian 2 
+cognitive 2 
+impairment 2 9 
+Starting 2 
+transform 2 
+low-complexity 2 
+inpatient 2 8 9 
+invited 2 
+participate 2 3 4 7 9 
+on-site.RANDOMIZATION 2 
+INTERVENTIONEligible 2 
+informed 2 3 4 7 
+ml 2 
+S 2 9 
+COVIDAR 2 
+Instituto 2 
+Leloir 2 
+saline 2 4 
+arbitrarily 2 
+percentile 2 
+computer-generated 2 
+balanced 2 8 
+permuted 2 
+prepare 2 3 
+center.Convalescent 2 
+conceal 2 
+opaque 2 
+bag 2 
+tape 2 
+cover 2 
+catheter 2 
+intervention.A 2 
+minimum 2 
+tests17 2 
+Potential 2 
+adequate 2 5 6 
+Fig 2 3 4 5 
+S6 2 3 4 
+.CLINICAL 2 4 
+LABORATORY 2 
+MONITORINGA 2 
+venous 2 7 9 
+Serum 2 
+preserve 2 
+−20°C 2 
+completion 2 4 
+anti–S 2 
+addition 2 3 4 
+S1-RBD 2 
+enzyme-linked 2 9 
+immunosorbent 2 9 
+kit 2 
+GenScript 2 
+surrogate 2 5 
+neutralization 2 4 5 
+physician 2 3 4 9 
+discharge 2 3 9 
+Figs 2 4 
+S7 2 3 4 
+S8 2 3 
+warrant 2 
+resolution 2 9 
+maximum 2 3 
+predesigned 2 
+questionnaire 2 5 7 9 
+Data 2 3 5 9 
+double-entered 2 
+electronic 2 9 
+database.TRIAL 2 
+END 2 
+POINTSThe 2 
+participation.Prespecified 2 
+supplementation 2 
+inspired 2 
+Fio2 2 
+noninvasive 2 3 
+critical 2 3 4 6 
+systemic 2 3 7 
+ratio 2 3 7 9 
+partial 2 
+pressure 2 3 
+≤200 2 
+mm 2 9 
+Hg 2 
+shock 2 
+resolve 2 5 9 
+participation 2 3 4 
+amend 2 
+fourth 2 
+combination.EARLY 2 
+TRIAL 2 
+TERMINATIONThe 2 
+initiate 2 4 
+approximately 2 4 5 9 
+goal 2 
+Consequently 2 4 
+discussion 2 
+logistically 2 
+ethically 2 
+questionable 2 
+results.STATISTICAL 2 
+ANALYSISGiven 2 
+complexity 2 
+intervention 2 5 9 
+minimal 2 4 
+clinically 2 5 
+expected 2 
+between-group 2 3 
+significance 2 3 
+α=0.05 2 
+two-sided 2 3 5 9 
+z-test 2 
+continuity 2 
+correction 2 
+plan 2 4 5 6 8 
+interim 2 3 4 5 
+Brien–Fleming 2 
+spending 2 
+function 2 9 
+boundaries.In 2 
+Continuous 2 
+variable 2 4 9 
+deviation 2 
+interquartile 2 
+categorical 2 9 
+percentages.In 2 
+Kaplan–Meier 2 3 
+product 2 
+ineligible 2 
+prespecified 2 4 
+evaluation 2 3 5 9 
+subgroup 2 3 4 5 9 
+condition. 2 
+ResultsTRIAL 2 
+POPULATIONA 2 
+Hypoxemia 2 
+analysis.A 2 
+voluntarily 2 
+Characteristics 2 
+Intention-to-Treat 2 3 
+Population.The 2 3 
+±SD 2 3 4 
+baseline 2 3 4 5 9 
+characteristic 2 3 4 9 
+.PRIMARY 2 3 
+POINTTable 2 
+2.Trial 2 
+End 2 4 
+Points 2 
+Population.Figure 2 3 
+Development 2 4 9 
+Respiratory 2 3 9 
+Due 2 
+According 2 3 5 
+Trial 2 3 5 9 
+Analysis.In 2 
+Figure 2 3 4 5 
+time-to-event 2 3 
+episode 2 9 
+S2 2 3 4 
+.SECONDARY 2 5 
+POINTSSecondary 2 
+respectively 2 3 4 5 
+combined 2 4 
+Secondary 2 3 
+S10.ANTIBODY 2 
+TITERSFigure 2 
+2.SARS-CoV-2 2 4 5 
+Titers 2 
+Group.The 2 
+anti–SARS-CoV-2 2 4 
+significantly 2 3 7 9 
+log 2 5 
+S5B 2 
+.Table 2 4 
+3.Primary 2 
+Point 2 
+Donor 2 
+Titer.Conversely 2 
+dose-dependent 2 
+worsening 2 7 
+alternative 2 7 
+selection 2 3 5 
+r=0.7 2 
+S3 2 3 4 
+DiscussionWe 2 
+discern 2 
+respect 2 3 
+approach 2 3 4 6 8 
+facilitate 2 
+selection.Our 2 
+fundamental 2 6 
+S14 2 
+.7-11 2 
+affected 2 
+pandemic.1,2 2 
+Previous 2 
+older.7-11 2 
+trials.7-11Studies 2 
+admission,8 2 
+U.S. 2 6 
+multicenter 2 4 
+later.12 2 
+Recently 2 
+Attachment 2 5 
+Entry 2 5 
+Neutralizing 2 5 
+BLAZE-1 2 5 
+outpatient 2 4 5 7 9 
+mild-to-moderate 2 7 9 
+Covid-19.18,19 2 
+Access 2 
+low- 2 
+middle-income 2 
+per-patient 2 
+dollar 2 
+S13 2 
+effects.In 2 
+aware 2 4 
+trial-group 2 
+hemotherapy 2 
+station 2 
+mile 2 
+security 2 
+challenge 2 7 8 
+preclude 2 3 
+p.m. 2 
+exclusion 2 4 5 
+efficacy 2 3 4 5 6 
+Again 2 
+efficacy.Our 2 
+exploratory 2 3 5 
+ingredient 2 
+Super 2 
+immunized 2 
+future 2 4 5 9 
+arsenal 2 
+donations.20In 2 
+bridge 2 
+at-risk 2 
+available. 2 
+Supported 2 4 5 
+contribution 2 
+Laboratorio 2 
+Roemmers 2 
+Bodega 2 
+Vistalba 2 
+Laboratorios 2 
+Bago 2 
+Raffo 2 
+Monserrat 2 
+Eclair 2 
+Tuteur 2 
+Sacifia 2 
+TASA 2 
+Logistica 2 
+Inversiones 2 
+Representaciones 2 
+Puerto 2 
+Asís 2 
+Investments 2 
+Hematológica 2 
+Sarmiento 2 
+Alec 2 
+Oxenford 2 
+Kulish 2 
+Renato 2 
+Montefiore 2 
+Irene 2 
+Gorodisch 2 
+Alejandro 2 
+Agustín 2 
+Otero-Monsegur 2 
+Luis 2 
+Otero.Disclosure 2 
+NEJM.org.Drs 2 5 
+Pérez 2 
+article.This 2 5 
+NEJM.org.A 2 4 5 
+statement 2 4 5 
+NEJM.org.We 2 4 5 
+thank 2 4 5 9 
+Ana 2 
+Ayrolo 2 
+Paula 2 
+Cipriani 2 
+Veronica 2 
+Bianchi 2 
+Omar 2 
+Lavieri 2 
+Cecilia 2 
+Riera 2 
+Sala 2 
+Carola 2 
+Candurra 2 
+Roxana 2 
+Olivera 2 
+Emiliano 2 
+Sosa 2 
+Sergio 2 
+Maldonado 2 
+Ariel 2 
+Guzman 2 
+Gollan 2 
+Fernan 2 
+Quiros 2 
+Luana 2 
+Volnovich 2 
+Aimar 2 
+Mariana 2 
+Bertolini 2 
+Manuela 2 
+Bermudez 2 
+Prudent 2 
+Stamboulian 2 
+Juan 2 
+Rey 2 
+Liste 2 
+Cristian 2 
+Werb 2 
+Sebastian 2 
+Crespo 2 
+Joaquin 2 
+Larrabide 2 
+Anigstein 2 
+Adrian 2 
+Galloso 2 
+Parrilla 2 
+Manuel 2 
+Debatista 2 
+Sandra 2 
+Lobosco 2 
+Martin 2 
+Donghi 2 
+Gerry 2 
+Garbulsky 2 
+Alan 2 
+Gegenschatz 2 
+Marcelo 2 
+Kamijo 2 
+Luciana 2 
+Armengol 2 
+Adriana 2 
+Romeo 2 
+Alejandra 2 
+Castro 2 
+Alfredo 2 
+Monte 2 
+Rosa 2 
+Chiaro 2 
+Stilman 2 
+Argüello 2 
+Churba 2 
+Di 2 
+Fabio 2 
+Gonzalez 2 
+Chicote 2 
+Hardoy 2 
+Vairo 2 
+Fernandez 2 
+Parmo 2 
+Masdeu 2 
+Picciola 2 
+Darío 2 
+Ibañez 2 
+Enriqueta 2 
+Chmielecki 2 
+Estela 2 
+Kalinsky 2 
+Fabian 2 
+Galperin 2 
+Felisa 2 
+Rodríguez 2 
+Palma 2 
+Florencia 2 
+Martinez 2 
+Pedemonte 2 
+Raúl 2 
+Gómez 2 
+Gabriela 2 
+Lombardi 2 
+Gisela 2 
+Kremenchuzky 2 
+Gustavo 2 
+Rizzo 2 
+Nelson 2 
+Donato 2 
+Iván 2 
+Urlich 2 
+Cohen 2 
+Jorge 2 
+Aguirre 2 
+Jorgelina 2 
+Centeno 2 
+Redondo 2 
+Leandro 2 
+Stitzman 2 
+Arias 2 
+Marcela 2 
+Baldoni 2 
+Oksengendler 2 
+Testoni 2 
+Suarez 2 
+Mercedes 2 
+Solis 2 
+Levy 2 
+Eugenia 2 
+Segretin 2 
+Sotti 2 
+Laura 2 
+Alzúa 2 
+Nora 2 
+Etchenique 2 
+Soledad 2 
+Oporto 2 
+Dunaiewsky 2 
+Loban 2 
+Marta 2 
+Wydra 2 
+Miguel 2 
+Patane 2 
+Mirta 2 
+Ludueña 2 
+Natalia 2 
+Gitelman 2 
+Pablo 2 
+Lopez 2 
+Rush 2 
+Pini 2 
+Figoni 2 
+Prado 2 
+Jiménez 2 
+Silvana 2 
+Franco 2 
+Silvina 2 
+Bosco 2 
+Moreno 2 
+Vallieri 2 
+Valeria 2 
+Rios 2 
+Siciliano 2 
+Verónica 2 
+Zlotogorski 2 
+Raul 2 
+Gaivironsky 2 
+Minatta 2 
+Grupo 2 
+Pediátrico 2 
+Militar 2 
+Central 2 
+invaluable 2 
+Drs 2 
+Gilda 2 
+Piaggio 2 
+Hevia 2 
+Roberto 2 
+Freue 2 
+AbstractBACKGROUNDCoronavirus 3 
+hyperinflammation 3 
+underserved 3 
+racial 3 
+anti–interleukin-6 3 
+unclear.METHODSWe 3 
+mechanical 3 9 
+mg 3 4 5 
+kilogram 3 5 
+intravenously 3 4 
+Site 3 
+Hispanic 3 4 
+Latino 3 4 
+Black 3 4 
+Indian 3 
+Alaska 3 
+Native 3 
+non-Hispanic 3 
+White 3 5 
+cumulative 3 5 7 
+hazard 3 
+P=0.04 3 
+log-rank 3 
+favor 3 
+Death 3 
+weighted 3 
+–﻿5.2 3 
+group.CONCLUSIONSIn 3 4 5 
+composite 3 5 
+improve 3 4 5 6 
+survival 3 4 
+Genentech 3 
+EMPACTA 3 
+NCT04372186 3 
+emergency.1,2 3 
+Covid-19–associated 3 
+distress 3 5 7 8 
+syndrome.3,4 3 
+Covid-19.5,6Patients 3 
+mainstay 3 
+supportive9 3 
+far.10Therapies 3 
+disproportionately 3 6 
+pandemic.11-19 3 
+Covid-19–Associated 3 
+Hospitalization 3 
+Surveillance 3 
+defined 3 
+persons.12 3 
+non-White 3 
+Covid-19–related 3 4 5 
+patients.13 3 
+Greater 3 
+recruitment 3 
+underrepresented 3 
+trials.20Covid-19 3 
+dysregulated 3 
+exacerbate 3 
+multiorgan 3 
+failure.4,21,22 3 
+interleukin-6 3 
+positively 3 9 
+disease23,24 3 
+predictive 3 
+ventilation.25 3 
+Tocilizumab 3 
+diseases26,27 3 
+observational 3 
+globally.28-30 3 
+background 3 
+care.31-34In 3 
+Evaluating 3 
+Minority 3 
+Actemra 3 
+emphasized. 3 
+Global 3 
+enhance 3 4 
+understanding 3 4 
+represent 3 7 8 9 
+Details 3 5 
+Methods 3 5 
+section 3 4 5 
+NEJM.org.Patients 3 
+polymerase-chain-reaction 3 
+radiographic 3 
+continuous 3 9 
+bilevel 3 
+limited 3 6 7 8 9 
+glucocorticoid 3 
+≤1 3 
+methylprednisolone 3 
+supportive 3 
+imminent 3 
+inevitable 3 
+treating 3 
+tuberculosis 3 
+suspect 3 7 
+bacterial 3 
+fungal 3 
+well-controlled 3 
+immunodeficiency 3 
+investigator 3 4 5 
+trial.Each 3 
+legally 3 
+representative 3 
+witness 3 
+oral 3 7 
+accordance 3 4 5 
+International 3 4 5 
+Conference 3 
+Harmonisation 3 4 
+E6 3 
+guideline 3 4 5 6 
+Practice 3 4 
+Declaration 3 4 5 
+Helsinki 3 4 5 
+regulation 3 
+whichever 3 
+afford 3 
+Advarra 3 
+Institutional 3 
+Review 3 
+Board 3 
+Western 3 
+ethic 3 4 
+committee 3 4 
+contract 3 4 
+organization 3 
+pay 3 
+manage 3 4 9 
+direction 3 
+supervision 3 
+fidelity 3 4 
+editorial 3 5 
+assistance 3 4 
+fund 3 
+sponsor.Using 3 
+permuted-block 3 
+interactive 3 
+voice- 3 
+Web-response 3 
+intravenous 3 4 5 9 
+stratify 3 9 
+Mexico 3 
+blinding 3 
+worsen 3 4 9 
+sustain 3 
+seven-category 3 9 
+ordinal 3 
+scale 3 4 9 
+one.Efficacy 3 
+MEASURESThe 3 
+extracorporeal 3 9 
+membrane 3 9 
+oxygenation 3 9 
+geographic 3 
+received.The 3 
+28-day 3 
+readiness 3 
+two-category 3 
+threshold 3 5 
+ICU 3 9 
+withdrawal 3 
+death.The 3 
+Terminology 3 
+Criteria 3 
+Adverse 3 4 
+Events 3 4 
+ANALYSISThe 3 4 
+modify 3 4 
+Efficacy 3 
+Analyses 3 
+curve 3 4 
+stratified 3 9 
+Cox 3 
+proportional-hazards 3 
+censor 3 
+first.The 3 
+hierarchical 3 
+manner 3 4 
+trial-wide 3 
+error 3 4 
+predefined 3 
+death.Time-to-event 3 
+Deaths 3 
+charge 3 
+discontinue 3 
+ordinal-scale 3 
+Cochran–Mantel–Haenszel 3 
+adjustment 3 9 
+adjust 3 4 9 
+multiplicity 3 4 
+Sensitivity 3 
+compete 3 6 7 8 9 
+Information 3 
+regard 3 4 5 9 
+verification 3 
+Appendix.Safety 3 
+internal 3 
+committee. 3 
+ResultsPATIENTSFigure 3 5 
+Randomization 3 4 
+Follow-up.Overall 3 
+Overall 3 4 
+groups.Table 3 
+Baseline 3 4 5 
+demographic 3 9 
+balance 3 4 5 8 
+S4 3 4 
+EFFICACY 3 
+OUTCOMETable 3 5 
+Key 3 4 5 9 
+Outcomes 3 
+Day 3 5 
+Mechanical 3 
+Ventilation 3 
+Results 3 4 
+OUTCOMESThe 3 
+–5.2 3 
+S6.SAFETYTable 3 
+Safety 3 4 
+cutoff 3 4 
+S9 3 
+S10 3 
+scale. 3 
+DiscussionOur 3 
+trials.11-20 3 
+group.This 3 
+fact 3 7 
+Studies 3 
+shorter 3 
+range.Health 3 
+disparity 3 
+complex 3 8 
+historical 3 
+inequity 3 
+observation 3 4 5 
+needed.14,16,19,35 3 
+discrepancy 3 
+overrepresentation 3 
+underrepresentation 3 
+trials,20 3 
+enroll 3 4 5 
+population.Prevention 3 
+greatly 3 
+availability 3 7 
+resource 3 
+in-hospital 3 
+.8 3 
+making 3 
+globally 3 
+conserve 3 
+resource36 3 
+Africa.37 3 
+Decreasing 3 
+burden 3 4 5 8 
+patients.38The 3 
+COVACTA31 3 
+Area 3 
+Consortium 3 
+BACC 3 
+Bay 3 
+Tocilizumab34 3 
+COVACTA 3 
+hypoxia 3 
+stage.31 3 
+scale.34As 3 
+RCT-TCZ-COVID-19 3 
+CORIMUNO-TOCI-1 3 
+trials,31-34 3 
+concomitant 3 9 
+Covid-19.39 3 
+uniformly 3 
+reflect 3 
+up-to-date 3 
+Glucocorticoid 3 
+added 3 
+respectively.31 3 
+trial.The 3 
+groups.33 3 
+trial.31,32,34 3 
+mortality.The 3 
+Ongoing 3 
+clarity 3 
+immunomodulatory 3 
+therapies.Our 3 
+AbstractBACKGROUNDRecent 4 
+loads.METHODSIn 4 
+ongoing 4 5 7 
+nonhospitalized 4 5 
+REGN-COV2 4 
+emergence 4 
+treatment-resistant 4 
+mutant 4 
+g 4 
+prospectively 4 5 
+endogenous 4 
+antibody–positive 4 
+antibody–negative 4 
+time-weighted 4 
+medically 4 
+patients.RESULTSData 4 
+least-squares 4 
+−0.56 4 
+log10 4 
+milliliter 4 5 
+−1.02 4 
+−0.11 4 5 
+−0.41 4 
+−0.71 4 
+−0.10 4 
+attended 4 
+corresponding 4 9 
+−9 4 
+−29 4 
+hypersensitivity 4 
+infusion-related 4 
+Biomedical 4 
+Advanced 4 
+Authority 4 
+Human 4 
+Services 4 
+NCT04425629 4 
+causative 4 
+loads,2-5 4 
+hypoxemia 4 
+develops 4 
+receipt 4 
+oxygen.6-8 4 
+pathogenesis 4 9 
+hyperresponse 4 
+infection9 4 
+immunomodulating 4 
+results.10-13 4 
+patients,14 4 
+SARS-CoV-2–neutralizing 4 
+emanate 4 
+noncompeting 4 
+IgG1 4 
+thereby 4 
+angiotensin-converting 4 5 
+receptor.15,16 4 
+pursue 4 
+suptavumab 4 
+syncytial 4 
+virus.17 4 
+Preclinical 4 
+antibody.15 4 
+vivo 4 
+nonhuman 4 5 
+primate 4 5 
+profound 4 7 8 
+prophylactic 4 
+context 4 8 
+clearance 4 5 
+context.18We 4 
+hypothesize 4 
+native 4 
+humoral 4 
+exogenously 4 
+preexist 4 
+entry.Here 4 
+infection. 4 
+DESIGNWe 4 
+operationally 4 
+seamless 4 
+continual 4 
+refine 4 
+casirivimab 4 
+REGN10933 4 
+imdevimab 4 
+REGN10987 4 
+equal 4 
+cocktail.Details 4 
+stratification 4 
+pharmacokinetic 4 
+phases.PATIENTSTo 4 
+SARS-CoV-2–positive 4 
+NEJM.org.An 4 
+serologic 4 
+IgA 4 9 
+anti-S1 4 
+anti-nucleocapsid 4 
+borderline 4 
+here.INTERVENTION 4 
+ASSESSMENTSAt 4 
+250-ml 4 
+schedule 4 8 
+summary 4 
+amendment 4 
+Quantitative 4 
+virologic 4 5 
+Appendix.END 4 
+POINTSMultiple 4 
+priori 4 
+unblinded 4 
+formal 4 
+performed.The 4 
+absolute 4 5 9 
+hoc 4 5 
+point.The 4 
+Medically 4 
+telemedicine 4 7 
+department 4 5 
+hospitalization.For 4 
+grade 4 5 
+interest 4 6 7 9 
+Pharmacokinetic 4 
+time.TRIAL 4 
+OVERSIGHTRegeneron 4 
+vouches 4 
+feedback 4 
+final 4 8 9 
+submission 4 
+Regeneron.The 4 
+personnel 4 
+unaware 4 
+treatment-group 4 
+periodically 4 
+recommendation 4 6 
+modification 4 
+termination 4 
+separately 4 
+design.The 4 
+applicable 4 5 9 
+regulatory 4 
+center 4 5 6 
+oversee 4 
+documentation 4 
+violation 4 
+collection 4 9 
+withdraw 4 
+trial.STATISTICAL 4 
+presented 4 
+finalize 4 
+unblinding 4 
+trend 4 5 
+purpose 4 
+qualitative 4 
+population.The 4 7 
+calculate 4 9 
+concentration–time 4 
+linear 4 9 
+trapezoidal 4 
+analysis-of-covariance 4 
+group–by–baseline 4 
+covariates 4 
+Confidence 4 
+Statistical 4 
+SAS 4 9 
+software 4 9 
+Appendix. 4 
+ResultsBASELINE 4 
+CHARACTERISTICSFigure 4 
+Treatment.Of 4 
+received 4 
+high-dose 4 
+low-dose 4 7 
+Characteristics.The 4 
+i.e. 4 
+S1.NATURAL 4 
+HISTORYAny 4 
+properly 4 
+Covid-19.Table 4 
+Virologic 4 
+Points.The 4 
+raw 4 
+retrospective 4 
+subgroup.VIROLOGIC 4 
+EFFICACYThe 4 
+−0.52 4 
+−1.04 4 5 
+−0.60 4 
+−1.12 4 5 
+−0.08 4 5 
+−0.25 4 
+−0.91 4 
+−0.21 4 
+respectively.Figure 4 
+Load 4 5 
+Time.Additional 4 
+> 4 
+Similar 4 
+covariate-adjusted 4 
+unadjusted 4 
+2-log 4 
+evident 4 
+−3 4 
+−16 4 
+descriptive 4 
+set19 4 
+alleviation 4 
+unpublished 4 
+.SAFETYTable 4 
+3.Serious 4 
+Special 4 
+Interest 4 
+Population.In 4 
+mainly 4 9 
+low-grade 4 
+toxic 4 
+groups.PHARMACOKINETICSThe 4 
+dose-proportional 4 
+pharmacokinetics 4 
+liter 4 
+DiscussionTo 4 
+loads.14,20 4 
+response.21 4 
+prospective 4 
+treatment.Our 4 
+.As 4 
+exogenous 4 
+impede 4 
+status.Higher 4 
+patients.22 4 
+High-titer 4 
+convalescent-phase 4 
+lower 4 5 
+Covid-19.23,24 4 5 
+Likewise 4 
+achievable 4 
+quantifiable 4 
+presumably 4 
+testable 4 
+elimination 4 5 
+NCT04452318 4 
+Similarly 4 
+symptomatology 4 
+observed.The 4 
+antidrug-antibody 4 
+altered 4 
+due 4 7 8 9 
+antidrug 4 
+predicted 4 9 
+vitro 4 
+preclinical 4 5 
+half-life 4 
+passive 4 5 
+REGN-COV2.An 4 
+limitation 4 9 
+rigorously 4 
+trial.Similar 4 
+SARS-CoV-2.25 4 
+Ebola 4 
+Further 4 9 
+effects. 4 
+HHSO100201700020C 4 
+.Disclosure 4 
+NEJM.org.This 4 
+update 4 
+investigational 4 
+principal 4 
+subprincipal 4 
+Balachandra 4 
+Dass 4 
+Ph.D. 4 5 
+Caryn 4 
+Trbovic 4 
+Brian 4 
+Head 4 
+Prime 4 
+format 4 
+editing 4 
+suggestion 4 
+AbstractBACKGROUNDSevere 5 
+Virus-neutralizing 5 
+ameliorate 5 
+hospitalization.METHODSIn 5 
+LY-CoV555 5 
+preplanned 5 
+observed 5 9 
+−3.81 5 
+2800-mg 5 
+−0.53 5 
+−0.98 5 
+P=0.02 5 
+Smaller 5 
+700-mg 5 
+−0.20 5 
+−0.66 5 
+P=0.38 5 
+7000-mg 5 
+−0.37 5 
+P=0.70 5 
+accelerate 5 9 
+NCT04427501 5 
+Infected 5 
+hospitalization.1 5 
+underlie 5 9 
+,2,3 5 
+connection 5 
+longitudinal 5 9 
+Several 5 
+option 5 
+e.g. 5 
+drugs,4 5 
+agents,5-7 5 
+immunomodulators,8-12 5 
+glucocorticoids,13,14 5 
+plasma15,16 5 
+targeted 5 
+intend 5 8 
+attenuate 5 
+disease.Preclinical 5 
+neutralizing-antibody 5 
+marked 5 
+tracts.17 5 
+cells.18 5 
+LY3819253 5 
+affinity 5 
+derive 5 
+AbCellera 5 
+previously.19Here 5 
+persistently 5 
+severity. 5 
+TREATMENT 5 
+OVERSIGHTIn 5 
+single-dose 5 
+monotherapy 5 
+feature 5 7 9 
+modeling 5 
+Given 5 
+gravity 5 
+coverage 5 
+Dose 5 
+fix 5 
+testing.The 5 
+ethical 5 
+Organizations 5 
+Sciences 5 6 9 
+consent.OUTCOMESThe 5 
+±4 5 
+in-patient 5 
+refer 5 
+adverse-event 5 
+outcomes.STATISTICAL 5 
+ANALYSISTo 5 
+dynamic 5 9 
+simulate 5 
+simulated 5 
+Section 5 
+document 5 9 
+undergone 5 
+baseline.Treatment 5 
+alpha 5 
+Adjustments 5 
+Significance 5 
+repeated-measures 5 
+Design.Table 5 
+Baseline.From 5 
+body-mass 5 
+index 5 
+BMI 5 
+height 5 
+meter 5 9 
+relevant 5 8 
+Ct 5 
+match 5 
+expectation 5 
+conversion 5 
+plan.PRIMARY 5 
+Load.By 5 
+substantial 5 6 
+VIRAL 5 
+OUTCOMESOn 5 
+−0.64 5 
+−1.11 5 
+−0.17 5 
+−0.42 5 
+−0.89 5 
+−0.90 5 
+pooled 5 
+−0.49 5 
+−0.87 5 
+MEASURES 5 
+OF 5 
+CLEARANCEFigure 5 
+stratum 5 
+box 5 
+plot 5 9 
+N1 5 
+primer 5 
+nucleic 5 
+acid–based 5 
+amplification 5 
+reference 5 
+panel 5 8 
+probability 5 
+indicated 5 
+7.COVID-19–RELATED 5 
+HOSPITALIZATIONTable 5 
+unit.SYMPTOM 5 
+SCOREFigure 5 
+Scores 5 
+−0.79 5 
+−1.35 5 
+−0.24 5 
+−0.57 5 
+−0.01 5 
+−1.60 5 
+−0.73 5 
+−1.28 5 
+−0.23 5 
+symptoms.SAFETYTable 5 
+Events.Serious 5 
+Diarrhea 5 
+vomiting 5 
+nausea 5 
+diarrhea 5 
+Infusion-related 5 
+pruritus 5 
+flushing 5 
+rash 5 
+facial 5 
+swell 5 
+vital 5 9 
+antihistamine 5 
+symptoms.We 5 
+resistance-associated 5 
+Accordingly 5 
+allele 5 
+known. 5 
+DiscussionIn 5 
+biomarkers 5 
+death.Among 5 
+decreased 5 9 
+meaningful 5 8 
+disease.20,21 5 
+accurate 5 
+absence 5 7 8 
+replication-competent 5 
+primarily 5 
+reflection 5 
+practical 5 
+precaution 5 
+pragmatic 5 
+course.An 5 
+unanticipated 5 
+delayed 5 
+disease.20,22,23 5 
+hospitalization.To 5 
+≥65 5 
+≥35 5 
+group.The 5 
+validity 5 
+mechanistic 5 
+accelerated 5 
+Nevertheless 5 
+placebo-treated 5 
+pronounced 5 
+Lilly.Disclosure 5 
+Nirula 5 
+Clooney 5 
+medical-writing 5 
+manuscript. 5 
+Author 5 
+AffiliationsFrom 5 
+Guild 5 
+Lung 5 9 
+Cedars–Sinai 5 
+Los 5 
+Angeles 5 
+P.C 5 
+Long 5 
+Beach 5 
+Trials 5 
+B.H 5 
+A.N. 5 
+A.C.A. 5 
+J.V.N. 5 
+K.L.C. 5 
+L.S. 5 
+M.D. 5 
+G.O. 5 
+A.E.S. 5 
+J.S. 5 
+D.R.P. 5 
+P.K. 5 
+D.M.S 5 
+Franciscan 5 
+Greenwood 5 
+I.S 5 
+Scott 5 
+Dallas 5 
+R.L.G 5 
+Vitalink 5 
+SC 5 
+J.B. 5 
+Charles 5 
+LA 5 
+J.M 5 
+Cook 5 
+G.H 5 
+Feinberg 5 
+V.S 5 
+Chicago 5 
+Indago 5 
+Hialeah 5 
+FL 5 
+J.C. 5 
+Las 5 
+Vegas 5 
+B.M 5 
+.Address 5 
+reprint 5 
+Dr. 5 
+Skovronsky 5 
+Delaware 5 
+IN 5 
+skovronsky_daniel 5 
+@ 5 
+lilly.com.A 5 
+devastate 6 
+refugee 6 
+asylum 6 
+seeker 6 
+federal 6 
+detention 6 
+optimism 6 
+Pfizer 6 
+task 6 
+force 6 8 
+prioritizing 6 
+detainee 6 
+immunization 6 
+devise 6 
+jeopardize 6 
+prospect 6 
+endanger 6 
+population.Under 6 
+migrant 6 
+hot 6 
+spot 6 
+measles 6 
+mumps 6 
+Investigations 6 
+gross 6 
+negligence 6 
+disturbing 6 
+expertise 6 
+detainees.1 6 
+unsurprising 6 
+living 6 
+inadequate 6 
+sanitation 6 
+capacity 6 9 
+Customs 6 
+Border 6 
+CBP 6 
+reject 6 
+cite 6 
+logistic 6 9 
+difficulties. 6 
+refuse 6 8 
+CDC 6 
+infection-evaluation 6 
+detainment 6 
+centers.3 6 
+nonadherence 6 
+extraordinarily 6 
+positivity 6 9 
+Immigration 6 
+Enforcement 6 
+ICE 6 
+exceed 6 
+centers.4A 6 
+Academies 6 
+NASEM 6 
+framework 6 
+allocation 6 
+teacher 6 
+homeless 6 
+shelter 6 9 
+conditions.5 6 
+prioritization 6 
+acknowledge 6 
+devastation 6 
+detained 6 
+responsibility 6 8 9 
+care.However 6 
+Operation 6 
+Warp 6 
+Speed 6 
+distribute 6 
+Individual 6 
+allotted 6 
+heft 6 
+crush 6 
+lot 6 
+entity 6 
+proven 6 
+Louisiana 6 
+explicitly 6 9 
+mention 6 
+plan.5 6 
+incarcerated 6 
+immunization.Leaving 6 
+implementation 6 
+proximity 6 
+believe 6 
+vaccination.2The 6 
+deny 6 
+right 6 
+incoming 6 
+Biden 6 
+indication 6 
+aside 6 
+immigration 6 
+provision 6 
+Vaccinating 6 
+medicine 6 
+humane 6 
+disenfranchised 6 
+allocate 6 
+them. 6 
+Carlo 6 
+Foppiano 6 
+Palacios 6 
+M.D.Yale 6 
+CTMark 6 
+Travassos 6 
+M.D.University 6 
+MD 6 
+β-coronavirus 7 
+management 7 
+comorbidities,1 7 
+rheumatic 7 
+diseases.3 7 
+non-negligible 7 
+characterise 7 9 
+susceptibility 7 
+aggravate 7 
+immune-modulating 7 
+therapies.Among 7 
+vasculitis 7 
+ie 7 9 
+arthritis.4 7 
+Systemic 7 
+sclerosis 7 
+multi-organ 7 
+involvement 7 9 
+concomitancy 7 
+fibrosing 7 
+microvascular 7 
+alterations.7 7 
+literature 7 
+impact 7 
+anecdotal 7 
+single-centre 7 
+miscellanea 7 
+disorders.4 7 
+9Following 7 
+compromise 7 8 
+regular 7 
+immunocompromised 7 
+Between 7 
+macro-areas 7 
+north 7 
+medium 7 
+south 7 
+unselected 7 
+consecutively 7 
+telephone 7 9 
+tertiary 7 
+referral 7 
+southern 7 
+6-week 7 
+serological 7 
+interview 7 9 
+standardised 7 
+described.4COVID-19 7 
+definite 7 
+suggestive 7 
+virological 7 
+.4The 7 
+appendix 7 9 
+pp 7 9 
+SD 7 
+cutaneous 7 
+sine 7 
+scleroderma 7 
+sclerosis-related 7 
+interstitial 7 9 
+cardiomyopathy 7 
+anti-Scl70 7 
+anticentromere 7 
+Moreover 7 8 
+conventional 7 
+disease-modifying 7 
+antirheumatic 7 
+vasoactive 7 
+iloprost 7 
+prostanoids 7 
+bosentan 7 
+calcium 7 
+channel 7 
+blocker 7 
+aspirin 7 
+individuals.After 7 
+p 7 9 
+invariably 7 
+p=0·0010 7 
+Superior 7 
+updated 7 
+conversely 7 
+overestimate 7 
+Piemonte 7 
+Veneto 7 
+Emilia 7 
+Romagna 7 
+Liguria 7 
+Campania 7 
+Molise 7 
+Puglia 7 
+Calabria 7 
+Sicily 7 
+p=0·0030 7 
+moreover 7 
+.Clinically 7 
+manifestation 7 9 
+Unfortunately 7 
+died 7 
+42-year-old 7 
+cardiopulmonary 7 
+65-year-old 7 
+fibrosis 7 9 
+complicate 7 8 
+arterial 7 
+thrombotic 7 
+embolic 7 
+stroke.Definite 7 
+< 7 9 
+appearance 7 
+exception 7 8 
+p=0·0060 7 
+.Taken 7 
+noteworthy 7 
+pathological 7 
+implication 7 
+multifactorial 7 9 
+multistep 7 
+aetiopathogenetic 7 
+process 7 
+whereby 7 
+epigenetic 7 
+environmental 7 
+phenotype 7 
+outcome.7 7 
+Notably 7 9 
+endothelial 7 
+diffuse 7 
+microangiopathy.7 7 
+sclerosis.These 7 
+pathogenic 7 
+previously.7 7 
+virus-related 7 
+hypothesise 7 
+amplify 7 8 
+advanced 7 
+Long-term 7 9 
+series 7 9 
+clarify 7 9 
+In-depth 7 
+compromised 7 
+insight 7 
+sclerosis.Given 7 
+unpredictable 7 
+threatening 7 
+prevention 7 8 
+advisable.We 7 
+declare 7 9 
+agree 7 9 
+organisation 8 
+visiting 8 
+dying 8 
+midst 8 
+compel 8 
+loved 8 
+infection.Hospital 8 
+Restrictions 8 
+harm 8 
+separation 8 
+Exemptions 8 
+compassionate 8 
+transmission.It 8 
+grief 8 
+bereavement 8 
+pandemics.1 8 
+restrictive 8 
+delirium 8 
+anxiety 8 9 
+patients.2 8 
+rite 8 
+disruption 8 
+network 8 
+Virtual 8 
+communication 8 
+feasible 8 
+dyspnoeic 8 
+delirious 8 
+liberalise 8 
+Liberal 8 
+nosocomial 8 
+burnout 8 
+staff.2 8 
+Zhou 8 
+colleagues4 8 
+personal 8 9 
+scarcity 8 
+frustrating 8 
+precise 8 
+psychomorbidity 8 
+justify 8 
+ever 8 
+outbreaks 8 
+unrestricted 8 
+clearly 8 
+Faced 8 
+choice 8 
+choose 8 
+uncontrolled 8 
+unsustainable 8 
+pandemic.Even 8 
+end-of-life 8 
+exemption 8 
+harmful 8 
+Prognostication 8 
+deteriorate 8 
+suddenly 8 
+usual 8 9 
+occurences 8 
+situation 8 
+bedside 8 
+sudden 8 
+deterioration 8 
+minimally 8 
+responsive 8 
+so-called 8 
+quality 8 9 
+Otani 8 
+colleagues5 8 
+complicated 8 
+conversation 8 
+eg 8 
+able 8 
+goodbye 8 
+reduced 8 
+depression 8 9 
+grief.Limiting 8 
+reasonable 8 
+Considering 8 
+cohabit 8 
+occurs 8 
+removal 8 
+transit 8 
+elevator 8 
+cycling 8 
+permit 8 
+.We 8 
+inconsistent 8 
+problematic 8 
+Patient 8 
+transfer 8 
+palliative 8 
+receiving 8 
+send 8 
+alternate 8 
+care.The 8 
+broad 8 
+Elements 8 
+Munshi 8 
+colleagues6 8 
+relaxation 8 
+proposal 8 
+criticism 8 
+rigid 8 
+threat 8 
+appreciate 8 9 
+term.PanelProposed 8 
+policy1The 8 
+comfort 8 
+coming 8 
+consistently 8 
+region.2Visitors 8 
+circumstance 8 
+hours.3The 8 
+private 8 
+semiprivate 8 
+room.4Cycling 8 
+wish 8 
+advance 8 
+ward.5Visitors 8 
+proper 8 
+Visitors 8 
+unwilling 8 
+comply 8 
+virtual 8 
+instead.6Although 8 
+h 8 9 
+rest.1The 8 
+rest 8 
+BackgroundThe 9 
+associated 9 
+severity.MethodsWe 9 
+ambidirectional 9 
+Yin-tan 9 
+psychotic 9 
+dementia 9 
+re-admission 9 
+osteoarthropathy 9 
+immobile 9 
+embolism 9 
+welfare 9 
+health-related 9 
+6-min 9 
+walking 9 
+CT 9 
+chest 9 
+ultrasonography 9 
+Enrolled 9 
+Lopinavir 9 
+Suppression 9 
+Multivariable 9 
+adjusted 9 
+regression 9 
+consequences.FindingsIn 9 
+IQR 9 
+Sept 9 
+Fatigue 9 
+muscle 9 
+weakness 9 
+Anxiety 9 
+walk 9 
+diffusion 9 
+multivariable 9 
+OR 9 
+versus 9 
+seropositivity 9 
+vs 9 
+titre 9 
+neutralising 9 
+glomerular 9 
+filtration 9 
+eGFR 9 
+mL/min 9 
+m2 9 
+follow-up.InterpretationAt 9 
+troubled 9 
+impaired 9 
+recovery.FundingNational 9 
+Natural 9 
+Academy 9 
+Innovation 9 
+Program 9 
+Major 9 
+Projects 9 
+Creation 9 
+Pulmonary 9 
+Tuberculosis 9 
+Foundation.The 9 
+severity.We 9 
+consequences.In 9 
+follow-up.At 9 
+recovery.National 9 
+Foundation.• 9 
+View 9 
+content 9 
+articleResearch 9 
+contextEvidence 9 
+studyWe 9 
+PubMed 9 
+Nov 9 
+language 9 
+2019-nCoV 9 
+* 9 
+sequela 9 
+representativeness 9 
+explicitness 9 
+insufficient 9 
+discharged 9 
+unknown.Added 9 
+studyTo 9 
+n=1733 9 
+Additionally 9 
+abnormality 9 
+Ground 9 
+glass 9 
+opacity 9 
+irregular 9 
+line 9 
+N-IgM 9 
+RBD-IgM 9 
+S-IgM 9 
+N-IgA 9 
+RBD-IgA 9 
+S-IgA 9 
+RBD-IgG 9 
+neutralise 9 
+phase.Implications 9 
+evidenceAt 9 
+increasingly 9 
+COVID-19.Evidence 9 
+COVID-19.As 9 
+COVID-19—an 9 
+—has 9 
+epidemiological 9 
+described,1 9 
+unclear.Long-term 9 
+psychological 9 
+urgently 9 
+required.3 9 
+hospital.4 9 
+persisting 9 
+dyspnoea,4 9 
+function,5 9 
+image 9 
+abnormalities6 9 
+spectrum 9 
+post-discharge 9 
+Furthermore 9 
+extra-pulmonary 9 
+discharge.We 9 
+consequences.This 9 
+designated 9 
+Hubei 9 
+attribute 9 
+uniform 9 
+guidance 9 
+Commission 9 
+consecutive 9 
+obvious 9 
+lesion 9 
+.9The 9 
+Ethics 9 
+KY-2020–78.01 9 
+Written 9 
+participants.We 9 
+retrieve 9 
+education 9 
+cigarette 9 
+smoking 9 
+self-reported 9 
+comorbidities 9 
+immunoglobulin 9 
+antibiotic 9 
+thymosin 9 
+lopinavir–ritonavir 9 
+arbidol 9 
+phosphate 9 
+,10 9 
+resumption 9 
+high-flow 9 
+cannula 9 
+HFNC 9 
+non-invasive 9 
+NIV 9 
+IMV 9 
+REDCap 9 
+minimise 9 
+input 9 
+real-time 9 
+control.The 9 
+appointment 9 
+reschedule 9 
+visit.Follow-up 9 
+consultation 9 
+British 9 
+mMRC 9 
+dyspnoea 9 
+EuroQol 9 
+five-dimension 9 
+five-level 9 
+EQ-5D-5L 9 
+Visual 9 
+Analogue 9 
+Scale 9 
+EQ-VAS 9 
+ischaemic 9 
+registration 9 
+form.11 9 
+five-category 9 
+dyspnoea.12 9 
+validated 9 
+mobility 9 
+self-care 9 
+pain 9 
+discomfort 9 
+Categorisation 9 
+extreme 9 
+problems.13 9 
+subjective 9 
+generic 9 
+experience.14 9 
+test.Venous 9 
+creatinine 9 
+haemoglobin 9 
+glycated 9 
+A1c 9 
+HbA1c 9 
+LOTUS 9 
+.10 9 
+Ig 9 
+M 9 
+nucleoprotein 9 
+titred 9 
+Vero 9 
+microneutralisation 9 
+studies.15 9 
+disproportional 9 
+limb 9 
+vein 9 
+abdomen 9 
+HRCT 9 
+≥5 9 
+ultrasound 9 
+Function 9 
+Master 9 
+Screen 9 
+PFT 9 
+Vyaire 9 
+GmbH 9 
+Hoechberg 9 
+Thoracic 9 
+Society 9 
+guidelines.17 9 
+Chest 9 
+supine 9 
+position 9 
+end-inspiration 9 
+SIEMENS 9 
+SOMATOM 9 
+PERSPECTIVE 9 
+scanner 9 
+Images 9 
+reconstruct 9 
+slice 9 
+thickness 9 
+increment 9 
+× 9 
+cross-compared 9 
+experienced 9 
+radiologist 9 
+pulmonologist 9 
+intelligence 9 
+anatomic 9 
+lobe 9 
+lobe,18 9 
+semi-quantitative 9 
+involvement.19 9 
+Briefly 9 
+sum 9 
+Estimated 9 
+Chronic 9 
+Kidney 9 
+Disease-Epidemiology 9 
+Collaboration 9 
+Detailed 9 
+thrombosis 9 
+hair 9 
+exercise 9 
+min 9 
+extrapulmonary 9 
+ultrasonographic 9 
+spleen 9 
+pancreas 9 
+seropositivity.Demographic 9 
+categorise 9 
+Demographic 9 
+Mann-Whitney 9 
+U 9 
+χ2 9 
+Fisher 9 
+exact 9 
+ORs 9 
+CIs 9 
+β 9 
+Confounders 9 
+never-smoker 9 
+smoker 9 
+former 9 
+college 9 
+middle 9 
+comorbidity 9 
+cerebrovascular 9 
+malignant 9 
+tumour 9 
+paired 9 
+McNemar 9 
+seropositivity.Multivariable 9 
+formula 9 
+phase–CT 9 
+/CT 9 
+×100 9 
+aforementioned 9 
+impute 9 
+funder 9 
+interpretation 9 
+submit 9 
+publication.A 9 
+outline 9 
+exacerbation 9 
+readmitted 9 
+Finally 9 
+sampled 9 
+ascertain 9 
+appointment.HRCT=high 9 
+CT. 9 
+LOTUS= 9 
+†Laboratory 9 
+lymphocyte 9 
+glycosylated 9 
+haemoglobin.The 9 
+table 9 
+enrolled 9 
+non-IMV 9 
+exclusively 9 
+.Data 9 
+n 9 
+n/N 9 
+denominator 9 
+HFNC=high-flow 9 
+NIV=non-invasive 9 
+IMV=invasive 9 
+NA=not 9 
+ECMO=extracorporeal 9 
+ICU=intensive 9 
+unit.76 9 
+Full 9 
+v 9 
+LLN 9 
+specify 9 
+OR=odds 9 
+mMRC=modified 9 
+EQ-5D-5L=EuroQol 9 
+eGFR=estimated 9 
+Quality 9 
+worst 9 
+imaginable 9 
+.§ 9 
+Predicted 9 
+Enright 9 
+Sherrill.22‖ 9 
+subtract 9 
+women.Data 9 
+rate.390 9 
+compliance 9 
+Decreased 9 
+FEV1=forced 9 
+expiratory 9 
+FVC=forced 9 
+TLC=total 9 
+FRC=functional 9 
+residual 9 
+RV=residual 9 
+DLCO=diffusion 9 
+carbon 9 
+monoxide 9 
+GGO=ground 9 
+applicable.A 9 
+p=0·0005 9 
+p=0·028 9 
+GGO 9 
+consolidation 9 
+Dynamic 9 
+41-year-old 9 
+Bilateral 9 
+subpleural 9 
+absorbed 9 
+discharge.After 9 
+Risk 9 
+Age 9 
+negatively 9 
+10-year 9 
+No 9 
+observed.For 9 
+ratio.Plasma 9 
+trial10 9 
+N-IgG 9 
+S-IgG 9 
+wan 9 
+heterogeneous 9 
+N 9 
+Seropositivity 9 
+y-axis 9 
+Violin 9 
+C 9 
+D 9 
+E 9 
+horizontal 9 
+OD=optical 9 
+SARS-CoV-2=severe 9 
+†p=0·29 9 
+‡p=0·039 9 
+§p=1·00 9 
+¶p=0·021.The 9 
+lymphocytopenia 9 
+L 9 
+abdominal 9 
+non-acute 9 
+presenting 9 
+endorse 9 
+phase.We 9 
+Canadian 9 
+decrement 9 
+mental 9 
+later.23 9 
+SARS.24 9 
+Female 9 
+anxiety.25 9 
+3-month 9 
+Xiong 9 
+colleagues8 9 
+post-activity 9 
+polypnoea 9 
+alopecia 9 
+mechanism 9 
+psychiatric 9 
+immunological 9 
+stigma.26The 9 
+considerable 9 
+GGOs 9 
+SARS27 9 
+influenza.28 9 
+induce 9 
+fibroblast 9 
+convalescence 9 
+phase.29 9 
+COVID-19.30 9 
+radiological 9 
+studies.In 9 
+5-month 9 
+timepoint.32 9 
+compatible 9 
+COVID-19.Our 9 
+thromboembolic 9 
+Angiotensin-converting 9 
+proximal 9 
+tubule34 9 
+mediate 9 
+epithelial 9 
+cytotoxicity 9 
+infiltration 9 
+end-stage 9 
+underestimation 9 
+phase.37 9 
+morbidity 9 
+prevention.This 9 
+Firstly 9 
+unavailable 9 
+fairly 9 
+Secondly 9 
+Thirdly 9 
+Fangcang 9 
+hospitals38 9 
+SARS-CoV-2.At 9 
+Longer 9 
+COVID-19.ContributorsCW 9 
+BC 9 
+DZ 9 
+JW 9 
+YeW 9 
+LR 9 
+conceive 9 
+LH 9 
+XG 9 
+GF 9 
+LS 9 
+JX 9 
+LG 9 
+GW 9 
+revise 9 
+intellectual 9 
+CH 9 
+LK 9 
+XL 9 
+XZ 9 
+DC 9 
+JL 9 
+ZH 9 
+ST 9 
+YZ 9 
+LC 9 
+DX 9 
+YaL 9 
+CL 9 
+LP 9 
+YoL 9 
+ML 9 
+WX 9 
+YiW 9 
+JZ 9 
+accountable 9 
+appropriately 9 
+investigated 9 
+resolved.Declaration 9 
+interestsWe 9 
+interests.As 9 
+dictionary 9 
+field 9 
+finish 9 
+available.AcknowledgmentsThis 9 
+CIFMS 9 
+2020-I2M-CoV19–005 9 
+Evergrande 9 
+Jack 9 
+Ma 9 
+Sino 9 
+Biopharmaceutical 9 
+Ping 9 
+Insurance 9 
+Sunshine 9 
+Charity 9 
+Qiongya 9 
+Ying 9 
+Wen 9 
+Geyi 9 
+China-Japan 9 
+Friendship 9 
+design.Supplementary 9 
+appendixLong-term 9 

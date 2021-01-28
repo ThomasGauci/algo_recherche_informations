@@ -93,10 +93,15 @@ for i in range(len(matrice)):
 
 def affichage(res):
     res_sorted = sorted(res, key=lambda res: res[1], reverse=True) # On tri les documents en fonction de leurs scores
+    file = open("requete.txt", "a")
+    file.write("------CLASSEMENT PERTINENCE------ \n")
     print("------CLASSEMENT PERTINENCE------")
+    file.write("REQUETE : " + requete+  "\n")
     print("REQUETE : " + requete)
     for i in range(len(res_sorted)):
         print(str(i+1) + "- " + res_sorted[i][0] + " score : " + str(res_sorted[i][1]))
+        file.write(str(i+1) + "- " + res_sorted[i][0] + " score : " + str(res_sorted[i][1]) + "\n")
+    file.close
 
 # Requête complexe
 def requete_complexe(requete,print):
@@ -189,11 +194,20 @@ for requete in requetesB:
 
 requetes = ["antibody treatments","efficacy and safety of the treatments","family access to hospitals","contact tracing results","genomic analysis of SARS-CoV-2 disease"]
 for requete in requetes:
-    requete_complexe(requete,True)                  
+    requete_complexe(requete,True)     
 
-
-
-# TF IDF 
-# TF : The number of times a word appears in a document divded by the total number of words in the document. Every document has its own term frequency.
-
+file = open("matrice_incidence.txt", "w")
+for x in range(len(matrice)):
+    string = ""
+    for y in range(len(matrice[x])):
+        string += str(matrice[x][y]) + " "
+    file.write(string+ "\n")
+file.close
+file = open("index_inverse.txt", "w")
+for x in range(len(index)):
+    string = ""
+    for y in range(len(index[x])):
+        string += str(index[x][y]) + " "
+    file.write(string+ "\n")
+file.close
 
